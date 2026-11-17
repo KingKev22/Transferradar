@@ -6,7 +6,8 @@ Wat doet dit script?
   2. Haalt elke RSS-feed op.
   3. Houdt alleen berichten over die (a) een Eredivisie-club noemen
      en (b) over een transfer lijken te gaan.
-  4. Bewaart per bericht ALLEEN: titel, bron, tijd en link.
+  4. Bewaart per bericht ALLEEN: titel, bron, tijd, link en de foto-URL
+     die de feed zelf meestuurt (de foto zelf wordt niet gekopieerd).
   5. Schrijft alles naar docs/data/news.json; de website leest dat bestand.
 
 Je kunt dit script lokaal draaien met:  python scripts/fetch_news.py
@@ -22,6 +23,9 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.etree import ElementTree as ET
+from zoneinfo import ZoneInfo
+
+AMSTERDAM = ZoneInfo("Europe/Amsterdam")
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_FILE = ROOT / "config.json"
@@ -64,6 +68,10 @@ def parse_date(value):
             dt = datetime.fromisoformat(value.replace("Z", "+00:00"))  # Atom: 2026-11-17T19:25:48Z
         except ValueError:
             return None
+    # ESPN.nl zet "EST" (Amerikaanse tijd) achter wat eigenlijk Nederlandse tijd is.
+    # Geen enkele Nederlandse feed gebruikt echt EST, dus lezen we dat als NL-tijd.
+    if value.endswith((" EST", " EDT")):
+        dt = parsedate_to_datetime(value[:-4] + " +0000").replace(tzinfo=AMSTERDAM)
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(timezone.utc)
@@ -94,8 +102,32 @@ def item_link(elem):
     return guid if guid.startswith("http") else ""
 
 
+IMAGE_EXT = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|$)", re.IGNORECASE)
+
+
+def item_image(elem):
+    """Zoek de foto die de feed zelf meestuurt. Volgorde:
+    media:content / media:thumbnail -> enclosure -> <img> in de tekst.
+    We zoeken GEEN foto's elders op internet."""
+    for child in elem.iter():
+        name = local_name(child.tag)
+        url = (child.get("url") or "").strip()
+        if not url.startswith("https://"):
+            continue  # alleen https, anders blokkeert de browser de foto
+        kind = (child.get("type") or child.get("medium") or "").lower()
+        if name in ("content", "thumbnail") and (not kind or "image" in kind):
+            return url
+        if name == "enclosure" and ("image" in kind or IMAGE_EXT.search(url)):
+            return url
+    for field in ("encoded", "description", "summary"):
+        found = re.search(r"""<img[^>]+src=["'](https://[^"']+)""", child_text(elem, field))
+        if found:
+            return html.unescape(found.group(1))
+    return ""
+
+
 def parse_feed(raw):
-    """Geef een lijst van (titel, link, datum) uit een RSS- of Atom-feed."""
+    """Geef een lijst van (titel, link, datum, foto) uit een RSS- of Atom-feed."""
     root = ET.fromstring(raw)
     result = []
     for elem in root.iter():
@@ -105,7 +137,7 @@ def parse_feed(raw):
         link = item_link(elem)
         date = parse_date(child_text(elem, "pubdate", "published", "updated", "date"))
         if title and link.startswith(("https://", "http://")):
-            result.append((title, link, date))
+            result.append((title, link, date, item_image(elem)))
     return result
 
 
@@ -173,7 +205,7 @@ def main():
             continue
 
         kept = 0
-        for title, link, date in entries:
+        for title, link, date, image in entries:
             clubs = find_clubs(title, club_matchers)
             if not clubs or not keyword_re.search(title):
                 continue
@@ -188,6 +220,7 @@ def main():
                 # Datums in de toekomst (foute feed) of zonder datum -> 'nu'
                 "published": min(date or now, now).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "clubs": clubs,
+                "image": image,   # leeg = geen foto -> website toont placeholder
             }
             kept += 1
         print(f"  - {feed['name']}: {len(entries)} berichten, {kept} nieuwe transferberichten")

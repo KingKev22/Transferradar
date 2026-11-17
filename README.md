@@ -1,8 +1,9 @@
 # Transferradar – Eredivisie transfernieuws
 
 Een website die **elk uur automatisch** het laatste transfernieuws van alle Eredivisie-clubs verzamelt
-uit Nederlandse voetbalmedia. Per bericht tonen we alleen titel, bron, tijd en een link naar het
-originele artikel.
+uit Nederlandse voetbalmedia. Per bericht tonen we alleen titel, bron, tijd, de foto die de
+nieuwssite zelf in haar RSS-feed meestuurt, en een link naar het originele artikel.
+Zonder foto in de feed toont de site een placeholder in de clubkleuren.
 
 ## Hoe werkt het?
 
