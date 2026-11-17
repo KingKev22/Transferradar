@@ -1,0 +1,217 @@
+{
+ "updated": "2026-11-17T20:26:59Z",
+ "clubs": [
+  {
+   "slug": "ajax",
+   "name": "Ajax",
+   "color": "#D2122E"
+  },
+  {
+   "slug": "psv",
+   "name": "PSV",
+   "color": "#ED1C24"
+  },
+  {
+   "slug": "feyenoord",
+   "name": "Feyenoord",
+   "color": "#E30613"
+  },
+  {
+   "slug": "az",
+   "name": "AZ",
+   "color": "#C8102E"
+  },
+  {
+   "slug": "twente",
+   "name": "FC Twente",
+   "color": "#E2001A"
+  },
+  {
+   "slug": "utrecht",
+   "name": "FC Utrecht",
+   "color": "#E4002B"
+  },
+  {
+   "slug": "nec",
+   "name": "NEC",
+   "color": "#00843D"
+  },
+  {
+   "slug": "heerenveen",
+   "name": "sc Heerenveen",
+   "color": "#0057B8"
+  },
+  {
+   "slug": "groningen",
+   "name": "FC Groningen",
+   "color": "#00A651"
+  },
+  {
+   "slug": "sparta",
+   "name": "Sparta Rotterdam",
+   "color": "#D71920"
+  },
+  {
+   "slug": "fortuna",
+   "name": "Fortuna Sittard",
+   "color": "#F5C400"
+  },
+  {
+   "slug": "gae",
+   "name": "Go Ahead Eagles",
+   "color": "#E30613"
+  },
+  {
+   "slug": "pec",
+   "name": "PEC Zwolle",
+   "color": "#0067B1"
+  },
+  {
+   "slug": "excelsior",
+   "name": "Excelsior",
+   "color": "#E30613"
+  },
+  {
+   "slug": "telstar",
+   "name": "Telstar",
+   "color": "#FFFFFF"
+  },
+  {
+   "slug": "willem2",
+   "name": "Willem II",
+   "color": "#E30613"
+  },
+  {
+   "slug": "ado",
+   "name": "ADO Den Haag",
+   "color": "#00813F"
+  },
+  {
+   "slug": "cambuur",
+   "name": "SC Cambuur",
+   "color": "#FFD100"
+  }
+ ],
+ "items": [
+  {
+   "id": "cbee7914726a",
+   "title": "PSV meldt zich met openingsbod bij Napoli voor De Bruyne",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17525414/psv-legt-openingsbod-voor-de-bruyne-neer-bij-napoli",
+   "published": "2026-11-17T19:32:57Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "9d4703eaebd4",
+   "title": "'Verrassend nieuws uit Sittard: succescoach Buijs staat voor vertrek bij Fortuna'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2159966/danny-buijs-gaat-vertrekken-bij-fortuna-sittard.html",
+   "published": "2026-11-17T18:17:54Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
+  {
+   "id": "7de988dff4cd",
+   "title": "Danny Buijs wil nieuw avontuur na succeshuwelijk met Fortuna Sittard",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/danny-buijs-wil-nieuw-avontuur-na-succeshuwelijk-met-fortuna-sittard",
+   "published": "2026-11-17T18:06:00Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
+  {
+   "id": "6d7c49ffd1ea",
+   "title": "TransferTalk | John van ‘t Schip weg als bondscoach van Kazachstan, PSV doet openingsbod op Kevin De Bruyne",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/transfertalk-john-van-t-schip-weg-als-bondscoach-van-kazachstan-psv-doet-openingsbod-op-kevin-de-bruyne~abfbf81f/",
+   "published": "2026-11-17T15:16:00Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "04dfec20e756",
+   "title": "Grote opwinding als nummerbord ’DEBRUYNE’ wordt gesignaleerd in Oisterwijk, maar het blijkt toch PSV-target Kevin De Bruyne niet te zijn",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/grote-opwinding-als-nummerbord-debruyne-wordt-gesignaleerd-in-oisterwijk-maar-het-blijkt-toch-psv-target-kevin-de-bruyne-niet-te-zijn/164685616.html",
+   "published": "2026-11-17T14:09:35Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "c04f0a8ab7d1",
+   "title": "PSV wordt concreet voor De Bruyne en legt eerste bod neer bij Napoli",
+   "source": "NOS",
+   "link": "https://nos.nl/l/2639863",
+   "published": "2026-11-17T11:23:46Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "74cbcafad915",
+   "title": "PSV brengt openingsbod uit op Kevin De Bruyne (35)",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/psv-brengt-openingsbod-uit-op-kevin-de-bruyne-35/164662183.html",
+   "published": "2026-11-17T09:11:05Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "e57644aedf0c",
+   "title": "Van Bommel geniet van PSV-target De Bruyne bij België: 'Uitzonderlijke klasse'",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6416698/van-bommel-geniet-van-psv-target-de-bruyne-bij-belgie-uitzonderlijke-klasse.html",
+   "published": "2026-11-16T07:26:11Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "b85cf73ea970",
+   "title": "ADO maakt komst trainer Steijn officieel, Driessen assistent",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17511150/ado-den-haag-trainer-maurice-steijn-jay-driessen",
+   "published": "2026-11-13T19:57:25Z",
+   "clubs": [
+    "ado"
+   ]
+  },
+  {
+   "id": "131fb0a64596",
+   "title": "De Bruyne reageert op PSV-interesse: \"Wat komt, dat komt\"",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17509193/de-bruyne-en-van-bommel-reageren-op-psv-interesse",
+   "published": "2026-11-13T12:58:24Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "4f48769acb82",
+   "title": "ADO Den Haag, de nieuwkomer in de Eredivisie, neemt afscheid van trainer Robin Peter",
+   "source": "Transfermarkt",
+   "link": "https://www.transfermarkt.nl/ado-den-haag-neemt-afscheid-van-promotiecoach-peter-dank-voor-buitengewone-prestatie-quot-/view/news/489929",
+   "published": "2026-11-03T07:30:00Z",
+   "clubs": [
+    "ado"
+   ]
+  },
+  {
+   "id": "68c5be0a28c5",
+   "title": "Cillessen tekent bij Go Ahead Eagles – Duurste Nederlandse keeper",
+   "source": "Transfermarkt",
+   "link": "https://www.transfermarkt.nl/duurste-nederlandse-keeper-ooit-cillessen-tekent-transfervrij-bij-go-ahead-eagles/view/news/489329",
+   "published": "2026-10-21T16:37:09Z",
+   "clubs": [
+    "gae"
+   ]
+  }
+ ]
+}
