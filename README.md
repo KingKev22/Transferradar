@@ -1,9 +1,10 @@
-# Transferradar – Eredivisie transfernieuws
+# TransferRadar – Eredivisie transfernieuws
 
 Een website die **elk uur automatisch** het laatste transfernieuws van alle Eredivisie-clubs verzamelt
-uit Nederlandse voetbalmedia. Per bericht tonen we alleen titel, bron, tijd, de foto die de
-nieuwssite zelf in haar RSS-feed meestuurt, en een link naar het originele artikel.
-Zonder foto in de feed toont de site een placeholder in de clubkleuren.
+uit Nederlandse voetbalmedia. Per bericht tonen we alleen titel, bron, tijd en een link naar het
+originele artikel. De bot herkent de speler in de kop en toont een **vrije foto van Wikimedia Commons**
+(met maker en licentie). Geen vrije foto gevonden? Dan een silhouet in de clubkleuren.
+Foto's van nieuwssites gebruiken we niet.
 
 ## Hoe werkt het?
 
@@ -20,6 +21,8 @@ Zonder foto in de feed toont de site een placeholder in de clubkleuren.
 |---|---|
 | `config.json` | Lijst met RSS-feeds, clubs en transferwoorden. **Hier pas je dingen aan.** |
 | `scripts/fetch_news.py` | De bot: haalt feeds op en filtert op club + transferwoord |
+| `scripts/players.py` | Herkent spelers in koppen en haalt vrije foto's op (Wikidata + Wikimedia Commons) |
+| `data/players.json` | Geheugen van de bot: welke namen al zijn opgezocht (niet zelf aanpassen) |
 | `docs/` | De website (HTML, CSS, JavaScript) |
 | `docs/data/news.json` | Het verzamelde nieuws (wordt door de bot gemaakt) |
 | `.github/workflows/update.yml` | Zegt tegen GitHub: "draai de bot elk uur en zet de site online" |
@@ -52,6 +55,13 @@ Alles staat in **`config.json`**. Je kunt het direct op GitHub bewerken (potlood
 - **Nieuw seizoen** (promotie/degradatie): pas de lijst `clubs` aan.
   - `aliases`: namen waarop gezocht wordt (hoofdlettergevoelig, hele woorden).
   - `exclude`: namen die je juist **niet** wilt meetellen (bijv. *Sparta Praag*).
+- **Transferwindow**: pas `transfer_windows` aan. Schrijf data in Nederlandse tijd, zo:
+  `"opens": "2027-01-04 00:00"`, `"closes": "2027-02-02 23:59"`. Voeg gewoon een nieuw blok toe
+  voor de zomer van 2027 zodra de KNVB de data bekendmaakt. `note` is de kleine tekst onder de klok.
+- **Wikimedia-contact**: vul bij `wikimedia` → `contact` het adres van je site in
+  (bijv. `https://jouw-naam.github.io/transferradar/`). Wikimedia vraagt bots zich zo voor te stellen.
+- **Geen speler maar wel herkend?** Zet het woord in `not_a_player` (bijv. een land of trainersnaam
+  die steeds verkeerd gaat). Verkeerde koppeling in het geheugen? Verwijder die regel uit `data/players.json`.
 - **Filter te streng of te ruim?** Pas `transfer_keywords` aan. Woorden van 4 letters of korter
   (zoals `bod`) moeten als heel woord voorkomen; langere woorden mogen een vervolg hebben
   (`transfer` vindt ook *transfergerucht*).
@@ -65,3 +75,7 @@ Alles staat in **`config.json`**. Je kunt het direct op GitHub bewerken (potlood
 - **Een feed werkt niet meer?** Dan staat er in het log van de Action
   `! Naam: overgeslagen`. De andere feeds blijven gewoon werken.
 - **Auteursrecht**: we tonen alleen koppen met een link, nooit hele artikelen.
+- **Spelersfoto's**: alleen met een vrije licentie (CC BY, CC BY-SA, CC0, publiek domein), met
+  maker en licentie erbij, zoals Wikimedia verplicht. Een foto toont de speler, niet het nieuwsmoment
+  (hij kan dus in het shirt van een oude club staan). De bot vraagt max. 1 keer per seconde iets
+  op en stopt vanzelf als Wikimedia om rust vraagt; de rest volgt het volgende uur.

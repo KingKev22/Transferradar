@@ -11,25 +11,56 @@
     { "name": "ESPN",           "url": "https://www.espn.nl/rss/voetbal" }
   ],
 
+  "transfer_windows": [
+    {
+      "name": "Zomer 2026",
+      "opens": null,
+      "closes": "2026-09-02 23:59",
+      "note": "Sluiting vastgesteld door de KNVB. Openingsdatum niet gevonden."
+    },
+    {
+      "name": "Winter 2027",
+      "opens": "2027-01-04 00:00",
+      "closes": "2027-02-02 23:59",
+      "note": "Voorlopige data volgens de KNVB, kunnen nog veranderen."
+    }
+  ],
+
+  "wikimedia": {
+    "contact": "",
+    "max_requests_per_run": 60,
+    "retry_after_days": 14
+  },
+
   "clubs": [
-    { "slug": "ajax",       "name": "Ajax",             "color": "#D2122E", "aliases": ["Ajax", "AFC Ajax"], "exclude": ["Jong Ajax"] },
-    { "slug": "psv",        "name": "PSV",              "color": "#ED1C24", "aliases": ["PSV"], "exclude": ["Jong PSV"] },
-    { "slug": "feyenoord",  "name": "Feyenoord",        "color": "#E30613", "aliases": ["Feyenoord"], "exclude": [] },
-    { "slug": "az",         "name": "AZ",               "color": "#C8102E", "aliases": ["AZ"], "exclude": ["Jong AZ"] },
-    { "slug": "twente",     "name": "FC Twente",        "color": "#E2001A", "aliases": ["FC Twente", "Twente"], "exclude": [] },
-    { "slug": "utrecht",    "name": "FC Utrecht",       "color": "#E4002B", "aliases": ["FC Utrecht"], "exclude": ["Jong FC Utrecht"] },
-    { "slug": "nec",        "name": "NEC",              "color": "#00843D", "aliases": ["NEC", "N.E.C."], "exclude": [] },
-    { "slug": "heerenveen", "name": "sc Heerenveen",    "color": "#0057B8", "aliases": ["Heerenveen"], "exclude": [] },
-    { "slug": "groningen",  "name": "FC Groningen",     "color": "#00A651", "aliases": ["FC Groningen"], "exclude": [] },
-    { "slug": "sparta",     "name": "Sparta Rotterdam", "color": "#D71920", "aliases": ["Sparta"], "exclude": ["Sparta Praag", "Sparta Prague"] },
-    { "slug": "fortuna",    "name": "Fortuna Sittard",  "color": "#F5C400", "aliases": ["Fortuna Sittard", "Fortuna"], "exclude": ["Fortuna Düsseldorf", "Fortuna Dusseldorf"] },
-    { "slug": "gae",        "name": "Go Ahead Eagles",  "color": "#E30613", "aliases": ["Go Ahead Eagles", "Go Ahead", "GA Eagles"], "exclude": [] },
-    { "slug": "pec",        "name": "PEC Zwolle",       "color": "#0067B1", "aliases": ["PEC Zwolle", "PEC"], "exclude": [] },
-    { "slug": "excelsior",  "name": "Excelsior",        "color": "#E30613", "aliases": ["Excelsior"], "exclude": ["Excelsior Maassluis"] },
-    { "slug": "telstar",    "name": "Telstar",          "color": "#FFFFFF", "aliases": ["Telstar"], "exclude": [] },
-    { "slug": "willem2",    "name": "Willem II",        "color": "#E30613", "aliases": ["Willem II"], "exclude": [] },
-    { "slug": "ado",        "name": "ADO Den Haag",     "color": "#00813F", "aliases": ["ADO Den Haag", "ADO"], "exclude": [] },
-    { "slug": "cambuur",    "name": "SC Cambuur",       "color": "#FFD100", "aliases": ["Cambuur"], "exclude": [] }
+    { "slug": "ajax",       "name": "Ajax",             "color": "#D2122E", "wikidata": "Q81888",   "aliases": ["Ajax", "AFC Ajax"], "exclude": ["Jong Ajax"] },
+    { "slug": "psv",        "name": "PSV",              "color": "#ED1C24", "wikidata": "Q11938",   "aliases": ["PSV"], "exclude": ["Jong PSV"] },
+    { "slug": "feyenoord",  "name": "Feyenoord",        "color": "#E30613", "wikidata": "Q134241",  "aliases": ["Feyenoord"], "exclude": [] },
+    { "slug": "az",         "name": "AZ",               "color": "#C8102E", "wikidata": "Q191264",  "aliases": ["AZ"], "exclude": ["Jong AZ"] },
+    { "slug": "twente",     "name": "FC Twente",        "color": "#E2001A", "wikidata": "Q19603",   "aliases": ["FC Twente", "Twente"], "exclude": [] },
+    { "slug": "utrecht",    "name": "FC Utrecht",       "color": "#E4002B", "wikidata": "Q24680",   "aliases": ["FC Utrecht"], "exclude": ["Jong FC Utrecht"] },
+    { "slug": "nec",        "name": "NEC",              "color": "#00843D", "wikidata": "Q318348",  "aliases": ["NEC", "N.E.C."], "exclude": [] },
+    { "slug": "heerenveen", "name": "sc Heerenveen",    "color": "#0057B8", "wikidata": "Q200321",  "aliases": ["Heerenveen"], "exclude": [] },
+    { "slug": "groningen",  "name": "FC Groningen",     "color": "#00A651", "wikidata": "Q24711",   "aliases": ["FC Groningen"], "exclude": [] },
+    { "slug": "sparta",     "name": "Sparta Rotterdam", "color": "#D71920", "wikidata": "Q209895",  "aliases": ["Sparta"], "exclude": ["Sparta Praag", "Sparta Prague"] },
+    { "slug": "fortuna",    "name": "Fortuna Sittard",  "color": "#F5C400", "wikidata": "Q854167",  "aliases": ["Fortuna Sittard", "Fortuna"], "exclude": ["Fortuna Düsseldorf", "Fortuna Dusseldorf"] },
+    { "slug": "gae",        "name": "Go Ahead Eagles",  "color": "#E30613", "wikidata": "Q749589",  "aliases": ["Go Ahead Eagles", "Go Ahead", "GA Eagles"], "exclude": [] },
+    { "slug": "pec",        "name": "PEC Zwolle",       "color": "#0067B1", "wikidata": "Q269151",  "aliases": ["PEC Zwolle", "PEC"], "exclude": [] },
+    { "slug": "excelsior",  "name": "Excelsior",        "color": "#E30613", "wikidata": "Q370712",  "aliases": ["Excelsior"], "exclude": ["Excelsior Maassluis"] },
+    { "slug": "telstar",    "name": "Telstar",          "color": "#FFFFFF", "wikidata": "Q1071713", "aliases": ["Telstar"], "exclude": [] },
+    { "slug": "willem2",    "name": "Willem II",        "color": "#E30613", "wikidata": "Q332664",  "aliases": ["Willem II"], "exclude": [] },
+    { "slug": "ado",        "name": "ADO Den Haag",     "color": "#00813F", "wikidata": "Q24904",   "aliases": ["ADO Den Haag", "ADO"], "exclude": [] },
+    { "slug": "cambuur",    "name": "SC Cambuur",       "color": "#FFD100", "wikidata": "Q875120",  "aliases": ["Cambuur"], "exclude": [] }
+  ],
+
+  "not_a_player": [
+    "Oranje", "Jong Oranje", "Eredivisie", "Keuken Kampioen Divisie", "Champions League", "Europa League",
+    "Conference League", "Nations League", "Premier League", "Serie A", "LaLiga", "Bundesliga", "KNVB", "FIFA", "UEFA",
+    "TransferTalk", "Deadline Day", "Corriere", "Corriere dello Sport", "Gazzetta", "Legend", "Ajax Legend",
+    "Nederland", "België", "Duitsland", "Engeland", "Spanje", "Italië", "Frankrijk", "Portugal", "Turkije",
+    "Denemarken", "Noorwegen", "Kazachstan", "Curaçao", "Marokko", "Algerije", "Suriname",
+    "Napoli", "Barcelona", "Real Madrid", "Manchester United", "Manchester City", "Liverpool", "Chelsea", "Arsenal",
+    "Genk", "Club Brugge", "Anderlecht", "Galatasaray", "Fenerbahçe", "Benfica", "Porto", "Sporting", "Celtic"
   ],
 
   "transfer_keywords": [

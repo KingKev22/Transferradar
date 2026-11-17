@@ -6,9 +6,11 @@ Wat doet dit script?
   2. Haalt elke RSS-feed op.
   3. Houdt alleen berichten over die (a) een Eredivisie-club noemen
      en (b) over een transfer lijken te gaan.
-  4. Bewaart per bericht ALLEEN: titel, bron, tijd, link en de foto-URL
-     die de feed zelf meestuurt (de foto zelf wordt niet gekopieerd).
-  5. Schrijft alles naar docs/data/news.json; de website leest dat bestand.
+  4. Bewaart per bericht ALLEEN: titel, bron, tijd en link.
+  5. Herkent de speler in de kop en zoekt een VRIJE foto op Wikimedia Commons
+     (zie players.py). Foto's van nieuwssites gebruiken we niet.
+  6. Zet de data van het transferwindow (uit config.json) erbij.
+  7. Schrijft alles naar docs/data/news.json; de website leest dat bestand.
 
 Je kunt dit script lokaal draaien met:  python scripts/fetch_news.py
 """
@@ -25,11 +27,14 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 from zoneinfo import ZoneInfo
 
+from players import PlayerFinder, RateLimited
+
 AMSTERDAM = ZoneInfo("Europe/Amsterdam")
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_FILE = ROOT / "config.json"
 OUTPUT_FILE = ROOT / "docs" / "data" / "news.json"
+PLAYER_CACHE = ROOT / "data" / "players.json"
 USER_AGENT = "Mozilla/5.0 (compatible; EredivisieTransferBot/1.0)"
 
 
@@ -102,32 +107,8 @@ def item_link(elem):
     return guid if guid.startswith("http") else ""
 
 
-IMAGE_EXT = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|$)", re.IGNORECASE)
-
-
-def item_image(elem):
-    """Zoek de foto die de feed zelf meestuurt. Volgorde:
-    media:content / media:thumbnail -> enclosure -> <img> in de tekst.
-    We zoeken GEEN foto's elders op internet."""
-    for child in elem.iter():
-        name = local_name(child.tag)
-        url = (child.get("url") or "").strip()
-        if not url.startswith("https://"):
-            continue  # alleen https, anders blokkeert de browser de foto
-        kind = (child.get("type") or child.get("medium") or "").lower()
-        if name in ("content", "thumbnail") and (not kind or "image" in kind):
-            return url
-        if name == "enclosure" and ("image" in kind or IMAGE_EXT.search(url)):
-            return url
-    for field in ("encoded", "description", "summary"):
-        found = re.search(r"""<img[^>]+src=["'](https://[^"']+)""", child_text(elem, field))
-        if found:
-            return html.unescape(found.group(1))
-    return ""
-
-
 def parse_feed(raw):
-    """Geef een lijst van (titel, link, datum, foto) uit een RSS- of Atom-feed."""
+    """Geef een lijst van (titel, link, datum) uit een RSS- of Atom-feed."""
     root = ET.fromstring(raw)
     result = []
     for elem in root.iter():
@@ -137,7 +118,7 @@ def parse_feed(raw):
         link = item_link(elem)
         date = parse_date(child_text(elem, "pubdate", "published", "updated", "date"))
         if title and link.startswith(("https://", "http://")):
-            result.append((title, link, date, item_image(elem)))
+            result.append((title, link, date))
     return result
 
 
@@ -182,6 +163,50 @@ def make_id(link):
     return hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
 
 
+# ---------------------------------------------------------------- spelers en transferwindow
+
+def add_players(items, config):
+    """Zoek per bericht de speler + vrije foto. Berichten die al gecontroleerd
+    zijn (hebben de sleutel 'player') slaan we over. Moet Wikimedia even
+    pauzeren, dan stoppen we en proberen we het volgende uur verder."""
+    finder = PlayerFinder(PLAYER_CACHE, config.get("wikimedia", {}),
+                          config["clubs"], config.get("not_a_player", []))
+    done = 0
+    for item in items:  # nieuwste eerst
+        if "player" in item:
+            continue
+        try:
+            item["player"] = finder.find(item["title"], item["clubs"])
+            done += 1
+        except RateLimited:
+            print("  ! Wikimedia: limiet bereikt, de rest volgt bij de volgende run")
+            break
+        except Exception as exc:  # bv. netwerkfout: dit bericht later opnieuw proberen
+            print(f"  ! Wikimedia-fout bij '{item['title'][:50]}': {exc}")
+    # Tweede ronde zonder internet: losse achternamen koppelen aan bekende spelers
+    for item in items:
+        if "player" in item and not (item["player"] or {}).get("photo"):
+            known = finder.from_known(item["title"])
+            if known and known.get("photo"):
+                item["player"] = known
+    finder.save()
+    with_photo = sum(1 for i in items if (i.get("player") or {}).get("photo"))
+    print(f"  - Spelers: {done} berichten gecontroleerd ({finder.requests} verzoeken), "
+          f"{with_photo} van {len(items)} berichten hebben een spelersfoto")
+
+
+def convert_windows(windows):
+    """'2027-01-04 00:00' (Nederlandse tijd) -> '2027-01-03T23:00:00Z' (UTC)."""
+    def to_utc(value):
+        if not value:
+            return None
+        local = datetime.strptime(value.strip(), "%Y-%m-%d %H:%M").replace(tzinfo=AMSTERDAM)
+        return local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    return [{"name": w["name"], "opens": to_utc(w.get("opens")), "closes": to_utc(w.get("closes")),
+             "note": w.get("note", "")} for w in windows]
+
+
 # ---------------------------------------------------------------- hoofdprogramma
 
 def main():
@@ -194,8 +219,7 @@ def main():
     now = datetime.now(timezone.utc)
 
     old = load_json(OUTPUT_FILE, {"items": []})
-    items = {item["id"]: item for item in old.get("items", [])}
-    old_ids = set(items)
+    items = {item["id"]: dict(item) for item in old.get("items", [])}  # kopie, om te kunnen vergelijken
 
     for feed in config["feeds"]:
         try:
@@ -205,7 +229,7 @@ def main():
             continue
 
         kept = 0
-        for title, link, date, image in entries:
+        for title, link, date in entries:
             clubs = find_clubs(title, club_matchers)
             if not clubs or not keyword_re.search(title):
                 continue
@@ -220,7 +244,6 @@ def main():
                 # Datums in de toekomst (foute feed) of zonder datum -> 'nu'
                 "published": min(date or now, now).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "clubs": clubs,
-                "image": image,   # leeg = geen foto -> website toont placeholder
             }
             kept += 1
         print(f"  - {feed['name']}: {len(entries)} berichten, {kept} nieuwe transferberichten")
@@ -237,14 +260,22 @@ def main():
     cutoff = (now - timedelta(days=config.get("keep_days", 30))).strftime("%Y-%m-%dT%H:%M:%SZ")
     unique = [i for i in unique if i["published"] >= cutoff][: config.get("max_items", 600)]
 
+    for item in unique:
+        item.pop("image", None)  # oude RSS-foto's weghalen: we gebruiken alleen Wikimedia
+    add_players(unique, config)
+
+    clubs = [{"slug": c["slug"], "name": c["name"], "color": c["color"]} for c in config["clubs"]]
+    windows = convert_windows(config.get("transfer_windows", []))
+
     # Alleen opslaan als er echt iets veranderd is (scheelt onnodige commits)
-    if {i["id"] for i in unique} == old_ids and old.get("clubs"):
+    if (old.get("items"), old.get("clubs"), old.get("windows")) == (unique, clubs, windows):
         print("Geen wijzigingen.")
         return
 
     output = {
         "updated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "clubs": [{"slug": c["slug"], "name": c["name"], "color": c["color"]} for c in config["clubs"]],
+        "clubs": clubs,
+        "windows": windows,
         "items": unique,
     }
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
