@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:22:30Z",
+ "updated": "2026-11-17T20:26:59Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -94,6 +94,16 @@
  ],
  "items": [
   {
+   "id": "cbee7914726a",
+   "title": "PSV meldt zich met openingsbod bij Napoli voor De Bruyne",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17525414/psv-legt-openingsbod-voor-de-bruyne-neer-bij-napoli",
+   "published": "2026-11-17T19:32:57Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
    "id": "9d4703eaebd4",
    "title": "'Verrassend nieuws uit Sittard: succescoach Buijs staat voor vertrek bij Fortuna'",
    "source": "Voetbalprimeur",
@@ -159,6 +169,26 @@
    "source": "NU.nl",
    "link": "https://www.nu.nl/voetbal/6416698/van-bommel-geniet-van-psv-target-de-bruyne-bij-belgie-uitzonderlijke-klasse.html",
    "published": "2026-11-16T07:26:11Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "b85cf73ea970",
+   "title": "ADO maakt komst trainer Steijn officieel, Driessen assistent",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17511150/ado-den-haag-trainer-maurice-steijn-jay-driessen",
+   "published": "2026-11-13T19:57:25Z",
+   "clubs": [
+    "ado"
+   ]
+  },
+  {
+   "id": "131fb0a64596",
+   "title": "De Bruyne reageert op PSV-interesse: \"Wat komt, dat komt\"",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17509193/de-bruyne-en-van-bommel-reageren-op-psv-interesse",
+   "published": "2026-11-13T12:58:24Z",
    "clubs": [
     "psv"
    ]
