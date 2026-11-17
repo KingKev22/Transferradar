@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transferradar · Eredivisie transfernieuws</title>
+  <meta name="description" content="Het laatste transfernieuws van alle Eredivisie-clubs, elk uur bijgewerkt uit Nederlandse voetbalmedia.">
+  <meta name="theme-color" content="#0b1220">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23ff5a1f'/%3E%3Cpath d='M9 16h11m-4-5 5 5-5 5' stroke='white' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./" aria-label="Transferradar, naar begin">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 32 32"><path d="M9 16h11m-4-5 5 5-5 5"/></svg>
+        </span>
+        <span class="brand-text">
+          <strong>Transferradar</strong>
+          <small>Eredivisie</small>
+        </span>
+      </a>
+      <p class="status" id="status" aria-live="polite">Laden…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="intro">
+      <h1>Transfernieuws uit de Eredivisie</h1>
+      <p>Elk uur verzameld uit Nederlandse voetbalmedia. Klik op een bericht om het originele artikel te lezen.</p>
+    </section>
+
+    <div class="toolbar">
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <span class="sr-only">Zoek op speler of trefwoord</span>
+        <input id="search" type="search" placeholder="Zoek speler of trefwoord…" autocomplete="off">
+      </label>
+    </div>
+
+    <nav class="clubs" id="clubs" aria-label="Filter op club"></nav>
+
+    <section id="feed" class="feed" aria-live="polite">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Transferradar toont alleen koppen met een link naar het originele artikel. Alle rechten op de artikelen liggen bij de genoemde bronnen. Deze site is niet verbonden aan de Eredivisie of de clubs.</p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

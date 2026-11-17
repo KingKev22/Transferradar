@@ -1,0 +1,62 @@
+# Draait de transferbot elk uur en publiceert de website op GitHub Pages.
+name: Transfernieuws bijwerken
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # elk uur, op minuut 17 (UTC). Op het hele uur is GitHub vaak druk.
+  workflow_dispatch:        # knop "Run workflow" om hem handmatig te starten
+  push:
+    branches: [main]        # ook draaien als jij zelf iets aanpast
+
+permissions:
+  contents: write   # om news.json op te slaan in de repository
+  pages: write      # om de website te publiceren
+  id-token: write
+
+concurrency:
+  group: transferbot
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code ophalen
+        uses: actions/checkout@v4
+
+      - name: Python klaarzetten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Feeds ophalen en filteren
+        run: python scripts/fetch_news.py
+
+      - name: Nieuw nieuws opslaan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json
+          if git diff --staged --quiet; then
+            echo "Geen nieuw transfernieuws."
+          else
+            git commit -m "Transfernieuws bijgewerkt"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Website inpakken
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Website publiceren
+        id: deployment
+        uses: actions/deploy-pages@v4

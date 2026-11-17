@@ -1,0 +1,190 @@
+/* ===== Kleuren (licht) ===== */
+:root {
+  --bg: #f4f6fa;
+  --surface: #ffffff;
+  --text: #0f172a;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --accent: #ff5a1f;
+  --accent-soft: #fff1eb;
+  --header: #0b1220;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(15, 23, 42, .04), 0 4px 16px rgba(15, 23, 42, .05);
+  color-scheme: light dark;
+}
+
+/* ===== Kleuren (donker, automatisch) ===== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b1220;
+    --surface: #131c2e;
+    --text: #e8edf5;
+    --muted: #8b98ad;
+    --line: #22304a;
+    --accent-soft: #2a1a14;
+    --header: #070c16;
+    --shadow: none;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap;
+}
+
+/* ===== Header ===== */
+.site-header {
+  position: sticky; top: 0; z-index: 10;
+  background: var(--header);
+  color: #fff;
+}
+.header-inner {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  height: 60px;
+}
+.brand { display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none; }
+.brand-mark {
+  display: grid; place-items: center;
+  width: 34px; height: 34px; border-radius: 9px; background: var(--accent);
+}
+.brand-mark svg {
+  width: 22px; height: 22px; fill: none; stroke: #fff;
+  stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;
+}
+.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.brand-text strong { font-size: 17px; letter-spacing: -.01em; }
+.brand-text small { font-size: 12px; color: #94a3b8; text-transform: uppercase; letter-spacing: .08em; }
+
+.status { margin: 0; font-size: 13px; color: #94a3b8; text-align: right; }
+.status .dot {
+  display: inline-block; width: 8px; height: 8px; margin-right: 6px; border-radius: 50%;
+  background: #22c55e; box-shadow: 0 0 0 3px rgba(34, 197, 94, .2);
+}
+
+/* ===== Intro ===== */
+.intro { padding: 28px 0 8px; }
+.intro h1 { margin: 0 0 6px; font-size: clamp(24px, 5vw, 34px); line-height: 1.15; letter-spacing: -.02em; }
+.intro p { margin: 0; color: var(--muted); max-width: 60ch; }
+
+/* ===== Zoekbalk ===== */
+.toolbar { margin: 20px 0 12px; }
+.search {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  padding: 0 14px; height: 48px;
+}
+.search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.search svg { width: 20px; height: 20px; flex: none; fill: none; stroke: var(--muted); stroke-width: 2; stroke-linecap: round; }
+.search input {
+  flex: 1; min-width: 0; border: 0; outline: 0; background: transparent;
+  color: var(--text); font: inherit; height: 100%;
+}
+
+/* ===== Clubfilter ===== */
+.clubs {
+  display: flex; gap: 8px; overflow-x: auto; padding: 4px 16px 12px; margin: 0 -16px;
+  scrollbar-width: none; -webkit-overflow-scrolling: touch;
+}
+.clubs::-webkit-scrollbar { display: none; }
+@media (min-width: 720px) {
+  .clubs { flex-wrap: wrap; overflow: visible; padding: 4px 0 12px; margin: 0; }
+}
+.chip {
+  display: inline-flex; align-items: center; gap: 8px; flex: none;
+  height: 36px; padding: 0 14px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--text);
+  font: inherit; font-size: 14px; font-weight: 500; cursor: pointer; white-space: nowrap;
+  transition: border-color .15s, background .15s;
+}
+.chip:hover { border-color: var(--muted); }
+.chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+.chip .count { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.chip[aria-pressed="true"] .count { color: inherit; opacity: .7; }
+.chip:disabled { opacity: .45; cursor: default; }
+
+.club-dot {
+  width: 10px; height: 10px; border-radius: 50%; flex: none;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .25);
+}
+
+/* ===== Nieuwslijst ===== */
+.feed { padding-bottom: 40px; }
+.day {
+  margin: 22px 0 10px; font-size: 13px; font-weight: 600; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .06em;
+}
+.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+
+.card {
+  position: relative;
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 14px 16px; box-shadow: var(--shadow);
+  transition: border-color .15s, transform .15s;
+}
+.card:hover { border-color: var(--accent); }
+.card:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
+.tag {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 600; color: var(--muted);
+}
+
+.card h2 { margin: 0; font-size: 17px; line-height: 1.35; font-weight: 600; letter-spacing: -.005em; }
+.card h2 a { color: inherit; text-decoration: none; }
+.card h2 a:focus { outline: none; }
+/* De hele kaart is klikbaar */
+.card h2 a::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
+
+.meta {
+  display: flex; align-items: center; gap: 8px; margin-top: 8px;
+  font-size: 13px; color: var(--muted);
+}
+.source { font-weight: 600; color: var(--text); }
+.meta svg { width: 14px; height: 14px; margin-left: auto; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+/* ===== Lege toestand / laden ===== */
+.empty {
+  text-align: center; padding: 48px 16px; color: var(--muted);
+  border: 1px dashed var(--line); border-radius: var(--radius); margin-top: 16px;
+}
+.empty strong { display: block; color: var(--text); margin-bottom: 4px; }
+
+.skeleton {
+  height: 92px; margin-top: 10px; border-radius: var(--radius);
+  background: linear-gradient(90deg, var(--surface) 0%, var(--line) 50%, var(--surface) 100%);
+  background-size: 200% 100%; animation: shimmer 1.2s infinite linear;
+}
+@keyframes shimmer { to { background-position: -200% 0; } }
+
+.more {
+  display: block; margin: 20px auto 0; height: 44px; padding: 0 22px;
+  border-radius: 999px; border: 1px solid var(--line); background: var(--surface);
+  color: var(--text); font: inherit; font-weight: 600; cursor: pointer;
+}
+.more:hover { border-color: var(--accent); }
+
+/* ===== Footer ===== */
+.site-footer { border-top: 1px solid var(--line); padding: 24px 0 40px; font-size: 13px; color: var(--muted); }
+.site-footer p { margin: 0; max-width: 70ch; }
+
+@media (max-width: 480px) {
+  .status { font-size: 12px; }
+  .card h2 { font-size: 16px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

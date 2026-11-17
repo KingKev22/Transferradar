@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    { "name": "NOS",            "url": "https://feeds.nos.nl/nosvoetbal" },
+    { "name": "NU.nl",          "url": "https://www.nu.nl/rss/Voetbal" },
+    { "name": "AD",             "url": "https://www.ad.nl/voetbal/rss.xml" },
+    { "name": "De Telegraaf",   "url": "https://www.telegraaf.nl/sport/voetbal/rss/" },
+    { "name": "VI",             "url": "https://www.vi.nl/feed/news.xml" },
+    { "name": "Voetbalprimeur", "url": "https://www.voetbalprimeur.nl/feed/news.xml" },
+    { "name": "FCUpdate",       "url": "https://www.fcupdate.nl/rss" },
+    { "name": "Transfermarkt",  "url": "https://www.transfermarkt.nl/rss/news" },
+    { "name": "ESPN",           "url": "https://www.espn.nl/rss/voetbal" }
+  ],
+
+  "clubs": [
+    { "slug": "ajax",       "name": "Ajax",             "color": "#D2122E", "aliases": ["Ajax", "AFC Ajax"], "exclude": ["Jong Ajax"] },
+    { "slug": "psv",        "name": "PSV",              "color": "#ED1C24", "aliases": ["PSV"], "exclude": ["Jong PSV"] },
+    { "slug": "feyenoord",  "name": "Feyenoord",        "color": "#E30613", "aliases": ["Feyenoord"], "exclude": [] },
+    { "slug": "az",         "name": "AZ",               "color": "#C8102E", "aliases": ["AZ"], "exclude": ["Jong AZ"] },
+    { "slug": "twente",     "name": "FC Twente",        "color": "#E2001A", "aliases": ["FC Twente", "Twente"], "exclude": [] },
+    { "slug": "utrecht",    "name": "FC Utrecht",       "color": "#E4002B", "aliases": ["FC Utrecht"], "exclude": ["Jong FC Utrecht"] },
+    { "slug": "nec",        "name": "NEC",              "color": "#00843D", "aliases": ["NEC", "N.E.C."], "exclude": [] },
+    { "slug": "heerenveen", "name": "sc Heerenveen",    "color": "#0057B8", "aliases": ["Heerenveen"], "exclude": [] },
+    { "slug": "groningen",  "name": "FC Groningen",     "color": "#00A651", "aliases": ["FC Groningen"], "exclude": [] },
+    { "slug": "sparta",     "name": "Sparta Rotterdam", "color": "#D71920", "aliases": ["Sparta"], "exclude": ["Sparta Praag", "Sparta Prague"] },
+    { "slug": "fortuna",    "name": "Fortuna Sittard",  "color": "#F5C400", "aliases": ["Fortuna Sittard", "Fortuna"], "exclude": ["Fortuna Düsseldorf", "Fortuna Dusseldorf"] },
+    { "slug": "gae",        "name": "Go Ahead Eagles",  "color": "#E30613", "aliases": ["Go Ahead Eagles", "Go Ahead", "GA Eagles"], "exclude": [] },
+    { "slug": "pec",        "name": "PEC Zwolle",       "color": "#0067B1", "aliases": ["PEC Zwolle", "PEC"], "exclude": [] },
+    { "slug": "excelsior",  "name": "Excelsior",        "color": "#E30613", "aliases": ["Excelsior"], "exclude": ["Excelsior Maassluis"] },
+    { "slug": "telstar",    "name": "Telstar",          "color": "#FFFFFF", "aliases": ["Telstar"], "exclude": [] },
+    { "slug": "willem2",    "name": "Willem II",        "color": "#E30613", "aliases": ["Willem II"], "exclude": [] },
+    { "slug": "ado",        "name": "ADO Den Haag",     "color": "#00813F", "aliases": ["ADO Den Haag", "ADO"], "exclude": [] },
+    { "slug": "cambuur",    "name": "SC Cambuur",       "color": "#FFD100", "aliases": ["Cambuur"], "exclude": [] }
+  ],
+
+  "transfer_keywords": [
+    "transfer", "overstap", "stapt over", "verruil", "aanwinst", "versterking",
+    "tekent", "getekend", "handtekening", "contract", "verlengt", "verlengd",
+    "huur", "huurt", "huurling", "huurbasis", "verhuur", "gehuurd", "transfervrij", "clubloos", "koopoptie",
+    "transfersom", "doorverkoop", "bod", "openingsbod", "miljoenenbod", "biedt", "aanbod", "akkoord", "deal",
+    "megatransfer", "toptransfer", "recordtransfer", "zomertransfer", "wintertransfer",
+    "target", "lonkt", "komst", "nieuw avontuur",
+    "interesse", "belangstelling", "in beeld", "op het lijstje", "gerucht",
+    "aangetrokken", "trekt", "haalt", "strikt", "vastgelegd", "legt vast",
+    "presenteert", "gepresenteerd", "medische keuring", "keuring",
+    "vertrek", "vertrekt", "verlaat", "afscheid", "weg bij",
+    "nieuwe trainer", "opvolger", "aangesteld", "terugkeer", "keert terug",
+    "is rond", "zijn rond", "transferperiode", "transferwindow", "winterstop"
+  ],
+
+  "keep_days": 30,
+  "max_items": 600
+}
