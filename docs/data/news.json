@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:23:49Z",
+ "updated": "2026-11-18T11:19:43Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,90 @@
   }
  ],
  "items": [
+  {
+   "id": "dc5789ab7fe4",
+   "title": "Buijs dicht bij speciale mijlpaal bij start afscheidstournee met Fortuna",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/buijs-dicht-bij-speciale-mijlpaal-bij-start-afscheidstournee-met-fortuna",
+   "published": "2026-11-18T11:16:14Z",
+   "clubs": [
+    "fortuna"
+   ],
+   "player": {
+    "name": "Danny Buijs",
+    "photo": {
+     "artist": "Knurftendans",
+     "license": "Public domain",
+     "license_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Danny_Buijs_008.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg"
+    },
+    "qid": "Q779338"
+   }
+  },
+  {
+   "id": "c6408e9d12e7",
+   "title": "Danny Buijs is klaar voor ’nieuwe uitdaging’ en kondigt vertrek bij Fortuna Sittard aan",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/danny-buijs-is-klaar-voor-nieuwe-uitdaging-en-kondigt-vertrek-bij-fortuna-sittard-aan/164723641.html",
+   "published": "2026-11-18T10:01:12Z",
+   "clubs": [
+    "fortuna"
+   ],
+   "player": {
+    "name": "Danny Buijs",
+    "photo": {
+     "artist": "Knurftendans",
+     "license": "Public domain",
+     "license_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Danny_Buijs_008.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg"
+    },
+    "qid": "Q779338"
+   }
+  },
+  {
+   "id": "63410f358e29",
+   "title": "Buijs bevestigt nieuws en vertrekt bij Fortuna: 'Merk dat moment is aangebroken'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160125/fortuna-komt-met-bevestiging-over-buis-trainer-na-dit-seizoen-weg.html",
+   "published": "2026-11-18T09:57:04Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
+  {
+   "id": "0d46fb0c8d26",
+   "title": "Trainer Buijs vertrekt na dit seizoen bij Fortuna: 'Tijd voor een nieuwe uitdaging'",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6416965/trainer-buijs-vertrekt-na-dit-seizoen-bij-fortuna-tijd-voor-een-nieuwe-uitdaging.html",
+   "published": "2026-11-18T09:55:54Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
+  {
+   "id": "a92f1a5bbc2a",
+   "title": "Buijs vertrekt na dit seizoen bij Fortuna Sittard: 'Toe aan nieuwe uitdaging'",
+   "source": "NOS",
+   "link": "https://nos.nl/l/2639992",
+   "published": "2026-11-18T09:52:19Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
+  {
+   "id": "629b9b265e8a",
+   "title": "Danny Buijs vertrekt na dit seizoen bij Fortuna Sittard",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/danny-buijs-vertrekt-na-dit-seizoen-bij-fortuna-sittard~a4aa892c/",
+   "published": "2026-11-18T09:49:00Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
   {
    "id": "b87c420a41b7",
    "title": "'Ajax blijft altijd bijzonder voor me, een terugkeer zou heel mooi zijn'",
