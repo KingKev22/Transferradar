@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:11:18Z",
+ "updated": "2026-11-18T23:09:54Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "079fc0980d64",
+   "title": "Transferklapper Twente voorspeld: 'Als dat zo is, dan kost hij 100 miljoen'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160406/nijstad-vertrekt-niet-in-de-winter-bij-fc-twente.html",
+   "published": "2026-11-18T22:56:00Z",
+   "clubs": [
+    "twente"
+   ]
+  },
   {
    "id": "a947e8fb4569",
    "title": "Ajax-spits Leonardo zegt keihard nee tegen transfer: 'Blij met interesse, maar...'",
