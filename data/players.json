@@ -1,1 +1,114 @@
-{}
+{
+ "buijs|fortuna": {
+  "checked": "2026-11-18T03:10:28+00:00",
+  "player": null
+ },
+ "cillessen|gae": {
+  "checked": "2026-11-18T03:10:51+00:00",
+  "player": {
+   "name": "Jasper Cillessen",
+   "photo": null,
+   "qid": "Q128719"
+  }
+ },
+ "danny buijs": {
+  "checked": "2026-11-18T03:10:31+00:00",
+  "player": {
+   "name": "Danny Buijs",
+   "photo": {
+    "artist": "Knurftendans",
+    "license": "Public domain",
+    "license_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Danny_Buijs_008.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg"
+   },
+   "qid": "Q779338"
+  }
+ },
+ "de bruyne|psv": {
+  "checked": "2026-11-18T03:10:21+00:00",
+  "player": {
+   "name": "Kevin De Bruyne",
+   "photo": {
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+   },
+   "qid": "Q357984"
+  }
+ },
+ "driessen|ado": {
+  "checked": "2026-11-18T03:10:44+00:00",
+  "player": null
+ },
+ "duurste nederlandse": {
+  "checked": "2026-11-18T03:10:48+00:00",
+  "player": null
+ },
+ "hoop|feyenoord": {
+  "checked": "2026-11-18T03:10:18+00:00",
+  "player": null
+ },
+ "john van t schip": {
+  "checked": "2026-11-18T03:10:35+00:00",
+  "player": {
+   "name": "John van 't Schip",
+   "photo": {
+    "artist": "Wim Hollemans",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Van_%27t_Schip_2012.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Van_%27t_Schip_2012.jpg/500px-Van_%27t_Schip_2012.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Van_%27t_Schip_2012.jpg/500px-Van_%27t_Schip_2012.jpg"
+   },
+   "qid": "Q529563"
+  }
+ },
+ "kevin de bruyne": {
+  "checked": "2026-11-18T03:10:38+00:00",
+  "player": {
+   "name": "Kevin De Bruyne",
+   "photo": {
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+   },
+   "qid": "Q357984"
+  }
+ },
+ "robin peter": {
+  "checked": "2026-11-18T03:10:47+00:00",
+  "player": {
+   "name": "Robin Peter",
+   "photo": null,
+   "qid": "Q130693618"
+  }
+ },
+ "sittard|fortuna": {
+  "checked": "2026-11-18T03:10:26+00:00",
+  "player": null
+ },
+ "steijn|ado": {
+  "checked": "2026-11-18T03:10:42+00:00",
+  "player": null
+ },
+ "tunesie|feyenoord": {
+  "checked": "2026-11-18T03:10:16+00:00",
+  "player": null
+ },
+ "van bommel|psv": {
+  "checked": "2026-11-18T03:10:40+00:00",
+  "player": null
+ },
+ "verrassend|fortuna": {
+  "checked": "2026-11-18T03:10:24+00:00",
+  "player": null
+ }
+}

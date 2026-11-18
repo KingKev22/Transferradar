@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:13:45Z",
+ "updated": "2026-11-18T03:10:12Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,8 @@
    "published": "2026-11-17T22:48:59Z",
    "clubs": [
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "cbee7914726a",
@@ -125,7 +126,19 @@
    "published": "2026-11-17T19:32:57Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "qid": "Q357984",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "9d4703eaebd4",
@@ -135,7 +148,19 @@
    "published": "2026-11-17T18:17:54Z",
    "clubs": [
     "fortuna"
-   ]
+   ],
+   "player": {
+    "name": "Danny Buijs",
+    "qid": "Q779338",
+    "photo": {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Danny_Buijs_008.jpg",
+     "artist": "Knurftendans",
+     "license": "Public domain",
+     "license_url": ""
+    }
+   }
   },
   {
    "id": "7de988dff4cd",
@@ -145,7 +170,19 @@
    "published": "2026-11-17T18:06:00Z",
    "clubs": [
     "fortuna"
-   ]
+   ],
+   "player": {
+    "name": "Danny Buijs",
+    "qid": "Q779338",
+    "photo": {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Danny_Buijs_008.jpg",
+     "artist": "Knurftendans",
+     "license": "Public domain",
+     "license_url": ""
+    }
+   }
   },
   {
    "id": "6d7c49ffd1ea",
@@ -155,7 +192,19 @@
    "published": "2026-11-17T15:16:00Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "John van 't Schip",
+    "qid": "Q529563",
+    "photo": {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Van_%27t_Schip_2012.jpg/500px-Van_%27t_Schip_2012.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Van_%27t_Schip_2012.jpg/500px-Van_%27t_Schip_2012.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Van_%27t_Schip_2012.jpg",
+     "artist": "Wim Hollemans",
+     "license": "CC BY-SA 2.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+   }
   },
   {
    "id": "04dfec20e756",
@@ -165,7 +214,19 @@
    "published": "2026-11-17T14:09:35Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "qid": "Q357984",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "c04f0a8ab7d1",
@@ -175,7 +236,19 @@
    "published": "2026-11-17T11:23:46Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "qid": "Q357984",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "74cbcafad915",
@@ -185,7 +258,19 @@
    "published": "2026-11-17T09:11:05Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "qid": "Q357984",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "e57644aedf0c",
@@ -195,7 +280,19 @@
    "published": "2026-11-16T07:26:11Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "qid": "Q357984",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "b85cf73ea970",
@@ -205,7 +302,8 @@
    "published": "2026-11-13T19:57:25Z",
    "clubs": [
     "ado"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "131fb0a64596",
@@ -215,7 +313,19 @@
    "published": "2026-11-13T12:58:24Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "qid": "Q357984",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "4f48769acb82",
@@ -225,7 +335,12 @@
    "published": "2026-11-03T07:30:00Z",
    "clubs": [
     "ado"
-   ]
+   ],
+   "player": {
+    "name": "Robin Peter",
+    "qid": "Q130693618",
+    "photo": null
+   }
   },
   {
    "id": "68c5be0a28c5",
@@ -235,7 +350,12 @@
    "published": "2026-10-21T16:37:09Z",
    "clubs": [
     "gae"
-   ]
+   ],
+   "player": {
+    "name": "Jasper Cillessen",
+    "qid": "Q128719",
+    "photo": null
+   }
   }
  ]
 }
