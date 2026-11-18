@@ -1,4 +1,12 @@
 {
+ "ac milan": {
+  "checked": "2026-11-18T16:23:12+00:00",
+  "player": null
+ },
+ "amsterdam|ajax": {
+  "checked": "2026-11-18T16:23:10+00:00",
+  "player": null
+ },
  "buijs|fortuna": {
   "checked": "2026-11-18T03:10:28+00:00",
   "player": null
@@ -49,8 +57,28 @@
   "checked": "2026-11-18T03:10:48+00:00",
   "player": null
  },
+ "frenkie de jong": {
+  "checked": "2026-11-18T16:23:23+00:00",
+  "player": {
+   "name": "Frenkie de Jong",
+   "photo": null,
+   "qid": "Q19898898"
+  }
+ },
+ "groningen|fortuna": {
+  "checked": "2026-11-18T16:23:03+00:00",
+  "player": null
+ },
+ "heb|fortuna": {
+  "checked": "2026-11-18T16:23:01+00:00",
+  "player": null
+ },
  "hoop|feyenoord": {
   "checked": "2026-11-18T03:10:18+00:00",
+  "player": null
+ },
+ "israel|twente": {
+  "checked": "2026-11-18T16:23:06+00:00",
   "player": null
  },
  "john van t schip": {
@@ -83,6 +111,14 @@
    "qid": "Q357984"
   }
  },
+ "merk|fortuna": {
+  "checked": "2026-11-18T16:23:15+00:00",
+  "player": null
+ },
+ "nijstad|twente": {
+  "checked": "2026-11-18T16:23:08+00:00",
+  "player": null
+ },
  "robin peter": {
   "checked": "2026-11-18T03:10:47+00:00",
   "player": {
@@ -97,6 +133,14 @@
  },
  "steijn|ado": {
   "checked": "2026-11-18T03:10:42+00:00",
+  "player": null
+ },
+ "tijd|fortuna": {
+  "checked": "2026-11-18T16:23:17+00:00",
+  "player": null
+ },
+ "toe|fortuna": {
+  "checked": "2026-11-18T16:23:19+00:00",
   "player": null
  },
  "tunesie|feyenoord": {
