@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:36:50Z",
+ "updated": "2026-11-18T15:15:54Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,26 @@
   }
  ],
  "items": [
+  {
+   "id": "581cf740e1ea",
+   "title": "Buijs gaat verder in op Fortuna-vertrek: 'Heb ik bij Groningen prijs voor betaald'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160253/buijs-licht-vertrek-bij-fortuna-sittard-verder-toe.html",
+   "published": "2026-11-18T13:55:13Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
+  {
+   "id": "f28feba97556",
+   "title": "Mogelijke PSV-transfer De Bruyne kan eervolle lijst aanvoeren: 'Met stip op één'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/videos/2160257/mogelijke-psv-transfer-de-bruyne-kan-eervolle-lijst-aanvoeren.html",
+   "published": "2026-11-18T13:53:53Z",
+   "clubs": [
+    "psv"
+   ]
+  },
   {
    "id": "0a7e959c6fd4",
    "title": "'FC Twente genoemd in Israël: vermeende interesse in mogelijke Nijstad-opvolger'",
