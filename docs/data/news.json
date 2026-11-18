@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:22:57Z",
+ "updated": "2026-11-18T18:08:28Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a76682e8dfc5",
+   "title": "Heerenveen staat open voor winters vertrek sterkhouder: 'Dan mag hij gaan'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160344/heerenveen-staat-open-voor-winters-vertrek-braude.html",
+   "published": "2026-11-18T17:05:52Z",
+   "clubs": [
+    "heerenveen"
+   ]
+  },
+  {
+   "id": "98dc710b072c",
+   "title": "'PSV informeerde bij Napoli naar opvallend detail in contract De Bruyne'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160339/psv-informeerde-bij-napoli-eerst-naar-contractoptie-kevin-de-bruyne.html",
+   "published": "2026-11-18T16:53:00Z",
+   "clubs": [
+    "psv"
+   ]
+  },
   {
    "id": "00bd021a8f55",
    "title": "SC Heerenveen wil contract openbreken: 'De intenties zijn in ieder geval positief'",
