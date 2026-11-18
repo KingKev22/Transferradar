@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:19:43Z",
+ "updated": "2026-11-18T13:36:50Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,36 @@
   }
  ],
  "items": [
+  {
+   "id": "0a7e959c6fd4",
+   "title": "'FC Twente genoemd in Israël: vermeende interesse in mogelijke Nijstad-opvolger'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160219/twente-lijkt-te-zoeken-naar-nijstad-opvolger-in-israel.html",
+   "published": "2026-11-18T12:48:58Z",
+   "clubs": [
+    "twente"
+   ]
+  },
+  {
+   "id": "3def4dfd0969",
+   "title": "De Ajax-huurlingen: spanning rond koopopties, twee trappen na richting Amsterdam",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160134/de-verrichtingen-van-de-acht-huurlingen-van-ajax-op-een-rij.html",
+   "published": "2026-11-18T12:00:00Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
+  {
+   "id": "37ba88d139cb",
+   "title": "'PSV-beul met prijskaartje van zestig miljoen mikt op transfer naar AC Milan'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160165/ac-milan-aast-op-tresoldi-club-brugge-vraagt-60-miljoen.html",
+   "published": "2026-11-18T11:39:13Z",
+   "clubs": [
+    "psv"
+   ]
+  },
   {
    "id": "dc5789ab7fe4",
    "title": "Buijs dicht bij speciale mijlpaal bij start afscheidstournee met Fortuna",
