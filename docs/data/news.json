@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:25:49Z",
+ "updated": "2026-11-19T13:42:16Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "1383b22d7821",
+   "title": "Ajax-spits Tolu niet happig op transfer: 'Ze boden me vijf, zes keer mijn salaris'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160549/tolu-arokodare-wees-aanbieding-trabzonspor-af-boden-vijf-zes-keer-mijn-salaris.html",
+   "published": "2026-11-19T12:44:12Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "0e414f5ad3ee",
    "title": "VP-Voetbalkantine: ‘PSV moet niet akkoord gaan met vraagprijs voor De Bruyne’",
