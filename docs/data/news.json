@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:09:54Z",
+ "updated": "2026-11-19T01:36:44Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,8 @@
    "published": "2026-11-18T22:56:00Z",
    "clubs": [
     "twente"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "a947e8fb4569",
@@ -125,7 +126,8 @@
    "published": "2026-11-18T20:37:57Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "a76682e8dfc5",
@@ -135,7 +137,8 @@
    "published": "2026-11-18T17:05:52Z",
    "clubs": [
     "heerenveen"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "98dc710b072c",
@@ -145,7 +148,19 @@
    "published": "2026-11-18T16:53:00Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
   },
   {
    "id": "00bd021a8f55",

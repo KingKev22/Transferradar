@@ -3,8 +3,16 @@
   "checked": "2026-11-18T16:23:12+00:00",
   "player": null
  },
+ "als|twente": {
+  "checked": "2026-11-19T01:36:49+00:00",
+  "player": null
+ },
  "amsterdam|ajax": {
   "checked": "2026-11-18T16:23:10+00:00",
+  "player": null
+ },
+ "blij|ajax": {
+  "checked": "2026-11-19T01:36:54+00:00",
   "player": null
  },
  "buijs|fortuna": {
@@ -33,6 +41,10 @@
    },
    "qid": "Q779338"
   }
+ },
+ "dan|heerenveen": {
+  "checked": "2026-11-19T01:36:56+00:00",
+  "player": null
  },
  "de bruyne|psv": {
   "checked": "2026-11-18T03:10:21+00:00",
@@ -111,6 +123,10 @@
    "qid": "Q357984"
   }
  },
+ "leonardo|ajax": {
+  "checked": "2026-11-19T01:36:51+00:00",
+  "player": null
+ },
  "merk|fortuna": {
   "checked": "2026-11-18T16:23:15+00:00",
   "player": null
@@ -141,6 +157,10 @@
  },
  "toe|fortuna": {
   "checked": "2026-11-18T16:23:19+00:00",
+  "player": null
+ },
+ "transferklapper|twente": {
+  "checked": "2026-11-19T01:36:46+00:00",
   "player": null
  },
  "tunesie|feyenoord": {
