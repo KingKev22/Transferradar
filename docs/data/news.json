@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:36:44Z",
+ "updated": "2026-11-19T10:25:49Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "0e414f5ad3ee",
+   "title": "VP-Voetbalkantine: ‘PSV moet niet akkoord gaan met vraagprijs voor De Bruyne’",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160512/vp-voetbalkantine-psv-moet-niet-akkoord-gaan-met-vraagprijs-voor-de-bruyne.html",
+   "published": "2026-11-19T10:00:00Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
   {
    "id": "079fc0980d64",
    "title": "Transferklapper Twente voorspeld: 'Als dat zo is, dan kost hij 100 miljoen'",
