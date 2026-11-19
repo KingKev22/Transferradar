@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:21:43Z",
+ "updated": "2026-11-19T19:22:27Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,26 @@
   }
  ],
  "items": [
+  {
+   "id": "0cab7484ba49",
+   "title": "'Ajax-doelman Ter Stegen wil terug naar Spanje, La Liga-club toont interesse'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160687/valencia-toont-interesse-voor-ajax-doelman-ter-stegen.html",
+   "published": "2026-11-19T18:50:36Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
+  {
+   "id": "9d168e54430d",
+   "title": "TransferTalk | Ronaldinho mogelijk opnieuw in actie, Hofstede krijgt nieuwe functie bij Telstar",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/transfertalk-ronaldinho-mogelijk-opnieuw-in-actie-hofstede-krijgt-nieuwe-functie-bij-telstar~abfbf81f/",
+   "published": "2026-11-19T17:23:00Z",
+   "clubs": [
+    "telstar"
+   ]
+  },
   {
    "id": "111f14c15d99",
    "title": "Transfers PSV: Italiaanse media noemen transfersom voor De Bruyne",
