@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:42:16Z",
+ "updated": "2026-11-19T15:17:24Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,28 @@
  ],
  "items": [
   {
+   "id": "890d8ac1bb42",
+   "title": "Transfergekte in Eindhoven, merkt onze clubwatcher: ‘Het is duidelijk dat PSV en De Bruyne graag willen’",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/transfergekte-in-eindhoven-merkt-onze-clubwatcher-het-is-duidelijk-dat-psv-en-de-bruyne-graag-willen~a4a371d6/",
+   "published": "2026-11-19T14:00:00Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
+  {
    "id": "1383b22d7821",
    "title": "Ajax-spits Tolu niet happig op transfer: 'Ze boden me vijf, zes keer mijn salaris'",
    "source": "Voetbalprimeur",
@@ -117,6 +139,16 @@
     "ajax"
    ],
    "player": null
+  },
+  {
+   "id": "d0891fdf44a1",
+   "title": "Ambitieus Heerenveen mikt op Europees voetbal én contractverlenging Veldman",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17529766/ambitieus-heerenveen-wil-contract-veldman-verlengen-en-europees-voetbal-halen",
+   "published": "2026-11-19T12:00:51Z",
+   "clubs": [
+    "heerenveen"
+   ]
   },
   {
    "id": "0e414f5ad3ee",
@@ -139,6 +171,16 @@
     },
     "qid": "Q357984"
    }
+  },
+  {
+   "id": "3ac369256888",
+   "title": "Guth verrast door vertrek Buijs bij Fortuna: \"Had het niet verwacht\"",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17529791/guth-verrast-door-vertrek-buijs-fortuna-sittard",
+   "published": "2026-11-19T09:10:45Z",
+   "clubs": [
+    "fortuna"
+   ]
   },
   {
    "id": "079fc0980d64",
