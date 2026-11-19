@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:17:24Z",
+ "updated": "2026-11-19T17:21:43Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,48 @@
   }
  ],
  "items": [
+  {
+   "id": "111f14c15d99",
+   "title": "Transfers PSV: Italiaanse media noemen transfersom voor De Bruyne",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transferperikelen-rondom-psv-2026-27",
+   "published": "2026-11-19T16:51:07Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
+  {
+   "id": "cac0b38780a6",
+   "title": "Opsteker voor Ajax en Míchel: drietal keert terug op trainingsveld na blessures",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160652/brandt-berghuis-en-gaaei-keren-terug-op-trainingsveld-bij-ajax.html",
+   "published": "2026-11-19T16:36:00Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
+  {
+   "id": "2990f3cf3d03",
+   "title": "Feyenoord-aanwinst verklaart moeilijke start: 'Speelstijl was heel anders'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160636/feyenoord-spits-nacho-ferri-verklaart-moeizame-seizoenstart.html",
+   "published": "2026-11-19T16:04:00Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
   {
    "id": "890d8ac1bb42",
    "title": "Transfergekte in Eindhoven, merkt onze clubwatcher: ‘Het is duidelijk dat PSV en De Bruyne graag willen’",
