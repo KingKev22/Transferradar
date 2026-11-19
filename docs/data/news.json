@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:22:27Z",
+ "updated": "2026-11-19T21:09:29Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,17 @@
  ],
  "items": [
   {
+   "id": "29869ce5fffe",
+   "title": "Hofstede verlengt contract en is voortaan technisch directeur Telstar",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17534901/peter-hofstede-telstar-technisch-directeur",
+   "published": "2026-11-19T20:07:00Z",
+   "clubs": [
+    "telstar"
+   ],
+   "player": null
+  },
+  {
    "id": "0cab7484ba49",
    "title": "'Ajax-doelman Ter Stegen wil terug naar Spanje, La Liga-club toont interesse'",
    "source": "Voetbalprimeur",
@@ -115,7 +126,19 @@
    "published": "2026-11-19T18:50:36Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": {
+    "name": "Marc-André ter Stegen",
+    "qid": "Q160472",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/960px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/500px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+     "artist": "Government of Catalonia",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+   }
   },
   {
    "id": "9d168e54430d",
@@ -125,7 +148,19 @@
    "published": "2026-11-19T17:23:00Z",
    "clubs": [
     "telstar"
-   ]
+   ],
+   "player": {
+    "name": "Ronaldinho",
+    "qid": "Q39444",
+    "photo": {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ronaldinho_in_2019.jpg/500px-Ronaldinho_in_2019.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ronaldinho_in_2019.jpg/500px-Ronaldinho_in_2019.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+     "artist": "Marcos Corrêa/PR",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0"
+    }
+   }
   },
   {
    "id": "111f14c15d99",
@@ -157,7 +192,19 @@
    "published": "2026-11-19T16:36:00Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": {
+    "name": "Míchel",
+    "qid": "Q558689",
+    "photo": {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Michel09.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/9/90/Michel09.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Michel09.jpg",
+     "artist": "HulkMadridista",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+   }
   },
   {
    "id": "2990f3cf3d03",
@@ -167,7 +214,8 @@
    "published": "2026-11-19T16:04:00Z",
    "clubs": [
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "890d8ac1bb42",
@@ -210,7 +258,8 @@
    "published": "2026-11-19T12:00:51Z",
    "clubs": [
     "heerenveen"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "0e414f5ad3ee",
@@ -242,7 +291,19 @@
    "published": "2026-11-19T09:10:45Z",
    "clubs": [
     "fortuna"
-   ]
+   ],
+   "player": {
+    "name": "Danny Buijs",
+    "photo": {
+     "artist": "Knurftendans",
+     "license": "Public domain",
+     "license_url": "",
+     "page": "https://commons.wikimedia.org/wiki/File:Danny_Buijs_008.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Buijs_008.jpg/500px-Danny_Buijs_008.jpg"
+    },
+    "qid": "Q779338"
+   }
   },
   {
    "id": "079fc0980d64",

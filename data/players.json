@@ -7,6 +7,10 @@
   "checked": "2026-11-19T01:36:49+00:00",
   "player": null
  },
+ "ambitieus|heerenveen": {
+  "checked": "2026-11-19T21:09:48+00:00",
+  "player": null
+ },
  "amsterdam|ajax": {
   "checked": "2026-11-18T16:23:10+00:00",
   "player": null
@@ -69,6 +73,10 @@
   "checked": "2026-11-18T03:10:48+00:00",
   "player": null
  },
+ "europees|heerenveen": {
+  "checked": "2026-11-19T21:09:50+00:00",
+  "player": null
+ },
  "frenkie de jong": {
   "checked": "2026-11-18T16:23:23+00:00",
   "player": {
@@ -81,8 +89,20 @@
   "checked": "2026-11-18T16:23:03+00:00",
   "player": null
  },
+ "guth|fortuna": {
+  "checked": "2026-11-19T21:09:55+00:00",
+  "player": null
+ },
+ "had|fortuna": {
+  "checked": "2026-11-19T21:09:57+00:00",
+  "player": null
+ },
  "heb|fortuna": {
   "checked": "2026-11-18T16:23:01+00:00",
+  "player": null
+ },
+ "hofstede|telstar": {
+  "checked": "2026-11-19T21:09:33+00:00",
   "player": null
  },
  "hoop|feyenoord": {
@@ -131,8 +151,27 @@
   "checked": "2026-11-18T16:23:15+00:00",
   "player": null
  },
+ "michel|ajax": {
+  "checked": "2026-11-19T21:09:44+00:00",
+  "player": {
+   "name": "Míchel",
+   "photo": {
+    "artist": "HulkMadridista",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Michel09.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Michel09.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/9/90/Michel09.jpg"
+   },
+   "qid": "Q558689"
+  }
+ },
  "nijstad|twente": {
   "checked": "2026-11-18T16:23:08+00:00",
+  "player": null
+ },
+ "opsteker|ajax": {
+  "checked": "2026-11-19T21:09:41+00:00",
   "player": null
  },
  "robin peter": {
@@ -143,13 +182,47 @@
    "qid": "Q130693618"
   }
  },
+ "ronaldinho|telstar": {
+  "checked": "2026-11-19T21:09:40+00:00",
+  "player": {
+   "name": "Ronaldinho",
+   "photo": {
+    "artist": "Marcos Corrêa/PR",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ronaldinho_in_2019.jpg/500px-Ronaldinho_in_2019.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ronaldinho_in_2019.jpg/500px-Ronaldinho_in_2019.jpg"
+   },
+   "qid": "Q39444"
+  }
+ },
  "sittard|fortuna": {
   "checked": "2026-11-18T03:10:26+00:00",
+  "player": null
+ },
+ "speelstijl|feyenoord": {
+  "checked": "2026-11-19T21:09:45+00:00",
   "player": null
  },
  "steijn|ado": {
   "checked": "2026-11-18T03:10:42+00:00",
   "player": null
+ },
+ "ter stegen|ajax": {
+  "checked": "2026-11-19T21:09:36+00:00",
+  "player": {
+   "name": "Marc-André ter Stegen",
+   "photo": {
+    "artist": "Government of Catalonia",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/960px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/500px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg"
+   },
+   "qid": "Q160472"
+  }
  },
  "tijd|fortuna": {
   "checked": "2026-11-18T16:23:17+00:00",
@@ -173,6 +246,10 @@
  },
  "van bommel|psv": {
   "checked": "2026-11-18T03:10:40+00:00",
+  "player": null
+ },
+ "veldman|heerenveen": {
+  "checked": "2026-11-19T21:09:52+00:00",
   "player": null
  },
  "verrassend|fortuna": {
