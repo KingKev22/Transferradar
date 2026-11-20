@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:09:29Z",
+ "updated": "2026-11-20T11:18:31Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "77ed4e429be3",
+   "title": "Driessen snapt weinig van ADO-terugkeer Steijn: 'Dat loopt meestal niet goed af'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2160824/driessen-kritisch-op-ado-terugkeer-van-maurice-steijn.html",
+   "published": "2026-11-20T10:23:00Z",
+   "clubs": [
+    "ado"
+   ],
+   "player": null
+  },
   {
    "id": "29869ce5fffe",
    "title": "Hofstede verlengt contract en is voortaan technisch directeur Telstar",
