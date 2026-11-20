@@ -65,6 +65,10 @@
    "qid": "Q357984"
   }
  },
+ "doel|excelsior": {
+  "checked": "2026-11-20T18:14:48+00:00",
+  "player": null
+ },
  "driessen|ado": {
   "checked": "2026-11-18T03:10:44+00:00",
   "player": null
@@ -91,6 +95,10 @@
  },
  "guth|fortuna": {
   "checked": "2026-11-19T21:09:55+00:00",
+  "player": null
+ },
+ "hadj moussa": {
+  "checked": "2026-11-20T18:14:42+00:00",
   "player": null
  },
  "had|fortuna": {
@@ -248,8 +256,16 @@
   "checked": "2026-11-18T03:10:40+00:00",
   "player": null
  },
+ "van bronkchorst|excelsior": {
+  "checked": "2026-11-20T18:14:46+00:00",
+  "player": null
+ },
  "veldman|heerenveen": {
   "checked": "2026-11-19T21:09:52+00:00",
+  "player": null
+ },
+ "vermoedelijke|feyenoord": {
+  "checked": "2026-11-20T18:14:45+00:00",
   "player": null
  },
  "verrassend|fortuna": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:18:04Z",
+ "updated": "2026-11-20T18:14:39Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,17 @@
  ],
  "items": [
   {
+   "id": "2c855ee3a87b",
+   "title": "Vermoedelijke opstelling Feyenoord: basisdebuut lonkt door kwetsuur Hadj Moussa",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161036/vermoedelijke-opstelling-feyenoord-tegen-excelsior.html",
+   "published": "2026-11-20T17:45:00Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": null
+  },
+  {
    "id": "9ae0aab00186",
    "title": "De Bruyne-nieuws uit Italië tegengesproken: 'PSV wil eerst akkoord met Napoli'",
    "source": "Voetbalprimeur",
@@ -137,7 +148,8 @@
    "published": "2026-11-20T15:45:00Z",
    "clubs": [
     "excelsior"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "daec235dcf44",
@@ -969,21 +981,6 @@
    "player": {
     "name": "Robin Peter",
     "qid": "Q130693618",
-    "photo": null
-   }
-  },
-  {
-   "id": "68c5be0a28c5",
-   "title": "Cillessen tekent bij Go Ahead Eagles – Duurste Nederlandse keeper",
-   "source": "Transfermarkt",
-   "link": "https://www.transfermarkt.nl/duurste-nederlandse-keeper-ooit-cillessen-tekent-transfervrij-bij-go-ahead-eagles/view/news/489329",
-   "published": "2026-10-21T16:37:09Z",
-   "clubs": [
-    "gae"
-   ],
-   "player": {
-    "name": "Jasper Cillessen",
-    "qid": "Q128719",
     "photo": null
    }
   }
