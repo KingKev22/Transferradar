@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:57:52Z",
+ "updated": "2026-11-21T23:54:41Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "d878cf55ac8e",
+   "title": "Allegri spreekt vertrouwen uit in PSV-target De Bruyne: 'Ik ben erg blij met hem'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161442/allegri-over-noa-lang-en-kevin-de-bruyne-na-zege-op-torino.html",
+   "published": "2026-11-21T22:58:09Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
   {
    "id": "ec95995dfdec",
    "title": "FC Utrecht-huurling juicht met Cambuur: 'Had van toegevoegde waarde kunnen zijn'",
