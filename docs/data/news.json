@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:58:18Z",
+ "updated": "2026-11-21T22:57:52Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "ec95995dfdec",
+   "title": "FC Utrecht-huurling juicht met Cambuur: 'Had van toegevoegde waarde kunnen zijn'",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/fc-utrecht-huurling-juicht-met-cambuur-had-van-toegevoegde-waarde-kunnen-zijn",
+   "published": "2026-11-21T22:35:28Z",
+   "clubs": [
+    "utrecht",
+    "cambuur"
+   ]
+  },
   {
    "id": "f54f523ecc67",
    "title": "Luciano Valente trekt boetekleed aan na blamage Feyenoord: ’Dat begint te irriteren’",
