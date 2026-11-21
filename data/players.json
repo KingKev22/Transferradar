@@ -155,6 +155,21 @@
   "checked": "2026-11-19T01:36:51+00:00",
   "player": null
  },
+ "luciano valente": {
+  "checked": "2026-11-21T21:58:22+00:00",
+  "player": {
+   "name": "Luciano Valente",
+   "photo": {
+    "artist": "Bé Speelman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Luciano_valente-1662326033.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Luciano_valente-1662326033.jpg/960px-Luciano_valente-1662326033.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Luciano_valente-1662326033.jpg/500px-Luciano_valente-1662326033.jpg"
+   },
+   "qid": "Q113548346"
+  }
+ },
  "maduro|psv": {
   "checked": "2026-11-21T19:11:04+00:00",
   "player": null

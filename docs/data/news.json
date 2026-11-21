@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:59:08Z",
+ "updated": "2026-11-21T21:58:18Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,19 @@
    "published": "2026-11-21T20:36:55Z",
    "clubs": [
     "feyenoord"
-   ]
+   ],
+   "player": {
+    "name": "Luciano Valente",
+    "qid": "Q113548346",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Luciano_valente-1662326033.jpg/960px-Luciano_valente-1662326033.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Luciano_valente-1662326033.jpg/500px-Luciano_valente-1662326033.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Luciano_valente-1662326033.jpg",
+     "artist": "Bé Speelman",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "57735f47e312",
