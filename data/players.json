@@ -178,6 +178,14 @@
   "checked": "2026-11-21T04:12:37+00:00",
   "player": null
  },
+ "monza|ajax,psv": {
+  "checked": "2026-11-21T15:06:08+00:00",
+  "player": null
+ },
+ "niet|ado,ajax": {
+  "checked": "2026-11-21T15:06:12+00:00",
+  "player": null
+ },
  "nijstad|twente": {
   "checked": "2026-11-18T16:23:08+00:00",
   "player": null
@@ -219,6 +227,10 @@
  },
  "steijn|ado": {
   "checked": "2026-11-18T03:10:42+00:00",
+  "player": null
+ },
+ "steijn|ado,ajax": {
+  "checked": "2026-11-21T15:06:10+00:00",
   "player": null
  },
  "ter stegen|ajax": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:06:01Z",
+ "updated": "2026-11-21T15:06:05Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,40 @@
  ],
  "items": [
   {
+   "id": "6766fe215ed5",
+   "title": "VP-Voetbalkantine: ‘PSV moet Mijnans gewoon betrekken in De Bruyne-deal’",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161220/vp-voetbalkantine-xavi-had-valente-moeten-oproepen-voor-het-nederlands-elftal.html",
+   "published": "2026-11-21T15:00:00Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
+  {
+   "id": "80e4acf0425c",
+   "title": "'Monza taxeert vermeend target van PSV en Ajax: bedrag van 35 miljoen genoemd'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161267/ajax-en-psv-zien-gustavo-varela-onbetaalbaar-worden.html",
+   "published": "2026-11-21T13:39:16Z",
+   "clubs": [
+    "ajax",
+    "psv"
+   ],
+   "player": null
+  },
+  {
    "id": "59d1609ec4a1",
    "title": "Steijn keert terug bij ADO en treft direct Ajax: 'Niet jaloers aangelegd'",
    "source": "Voetbalprimeur",
@@ -116,7 +150,8 @@
    "clubs": [
     "ajax",
     "ado"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "2685e3bf0481",
@@ -126,7 +161,19 @@
    "published": "2026-11-21T08:45:00Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": {
+    "name": "Marc-André ter Stegen",
+    "photo": {
+     "artist": "Government of Catalonia",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/960px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/500px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg"
+    },
+    "qid": "Q160472"
+   }
   },
   {
    "id": "12c64e1c1cec",
