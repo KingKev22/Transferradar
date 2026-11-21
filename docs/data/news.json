@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:06:05Z",
+ "updated": "2026-11-21T19:11:00Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "57735f47e312",
+   "title": "Maduro voorziet toptransfer voor PSV-uitblinker: 'Het is een machine'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161349/maduro-voorziet-toptransfer-voor-psv-uitblinker.html",
+   "published": "2026-11-21T18:31:52Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": null
+  },
   {
    "id": "6766fe215ed5",
    "title": "VP-Voetbalkantine: ‘PSV moet Mijnans gewoon betrekken in De Bruyne-deal’",
