@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:03:48Z",
+ "updated": "2026-11-21T04:12:33Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,19 @@
    "published": "2026-11-20T23:04:51Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": {
+    "name": "Míchel",
+    "photo": {
+     "artist": "HulkMadridista",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Michel09.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Michel09.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/9/90/Michel09.jpg"
+    },
+    "qid": "Q558689"
+   }
   },
   {
    "id": "34e379271b19",
