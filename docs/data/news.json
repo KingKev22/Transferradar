@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:54:41Z",
+ "updated": "2026-11-22T03:08:12Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -138,7 +138,8 @@
    "clubs": [
     "utrecht",
     "cambuur"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "f54f523ecc67",
