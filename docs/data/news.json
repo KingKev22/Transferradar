@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:04:41Z",
+ "updated": "2026-11-22T21:00:32Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "3ea80d8b2c30",
+   "title": "FC Utrecht neemt afscheid van Anthony Correia na tegenvallende resultaten",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/fc-utrecht-neemt-afscheid-van-anthony-correia-na-tegenvallende-resultaten/164943565.html",
+   "published": "2026-11-22T20:32:34Z",
+   "clubs": [
+    "utrecht"
+   ]
+  },
   {
    "id": "8e7521051954",
    "title": "Ajax wint, maar onrust keert terug: Míchel baalt van mentaliteit en blessure Jorthy Mokio",
