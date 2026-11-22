@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:05:53Z",
+ "updated": "2026-11-22T10:05:26Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "ba98116a248c",
+   "title": "ESPN-analist haalt uit naar arbitrage na penalty PSV: 'Moet VAR vanaf blijven'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161505/van-polen-begrijpt-niets-van-penalty-bij-nec-psv.html",
+   "published": "2026-11-22T10:02:24Z",
+   "clubs": [
+    "psv"
+   ]
+  },
   {
    "id": "97928489dd32",
    "title": "'Dit Ajax-gerucht is een vreemd verhaal, tien miljoen euro is veel geld'",
