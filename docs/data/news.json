@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:08:12Z",
+ "updated": "2026-11-22T09:05:53Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "97928489dd32",
+   "title": "'Dit Ajax-gerucht is een vreemd verhaal, tien miljoen euro is veel geld'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/videos/2161486/dit-ajax-gerucht-over-tete-is-een-vreemd-verhaal.html",
+   "published": "2026-11-22T08:32:00Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "d878cf55ac8e",
    "title": "Allegri spreekt vertrouwen uit in PSV-target De Bruyne: 'Ik ben erg blij met hem'",
