@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:05:26Z",
+ "updated": "2026-11-22T11:02:21Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "8058b4a71b30",
+   "title": "'Feyenoord-fan' Plug trekt conclusie over eigen goal in de Kuip: 'Lullig'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161523/feyenoord-fan-plug-vertelt-over-eigen-goal-in-de-kuip.html",
+   "published": "2026-11-22T10:20:34Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
   {
    "id": "ba98116a248c",
    "title": "ESPN-analist haalt uit naar arbitrage na penalty PSV: 'Moet VAR vanaf blijven'",
