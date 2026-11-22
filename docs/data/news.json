@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:19:14Z",
+ "updated": "2026-11-22T16:01:47Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,26 @@
   }
  ],
  "items": [
+  {
+   "id": "723be9a3abc7",
+   "title": "Bruggink trekt fel van leer na blessure Mokio bij Ajax: 'Dit is écht heel lelijk'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161636/bruggink-trekt-fel-van-leer-na-blessure-mokio-bij-ajax-echt-lelijk.html",
+   "published": "2026-11-22T15:43:16Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
+  {
+   "id": "19ab0087979a",
+   "title": "Ruud Nijstad (18) rukt met FC Twente op naar plek drie en laat zich niet gek maken door interesse Barcelona: ’Die krant is een mooi souvenirtje’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/ruud-nijstad-18-rukt-met-fc-twente-op-naar-plek-drie-en-laat-zich-niet-gek-maken-door-interesse-barcelona-die-krant-is-een-mooi-souvenirtje/164929602.html",
+   "published": "2026-11-22T15:31:00Z",
+   "clubs": [
+    "twente"
+   ]
+  },
   {
    "id": "29231f167892",
    "title": "Transfers Ajax: Pascal Jansen houdt deur open voor functie in Amsterdam",
