@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:01:47Z",
+ "updated": "2026-11-22T17:03:46Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,8 @@
    "published": "2026-11-22T15:43:16Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "19ab0087979a",
@@ -125,7 +126,41 @@
    "published": "2026-11-22T15:31:00Z",
    "clubs": [
     "twente"
-   ]
+   ],
+   "player": {
+    "name": "Ruud Nijstad",
+    "qid": "Q136294994",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/960px-Ruud_Nijstad_2025.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/500px-Ruud_Nijstad_2025.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ruud_Nijstad_2025.jpg",
+     "artist": "BasFCT",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+   }
+  },
+  {
+   "id": "4a4c4e4cfafa",
+   "title": "FC Twente-verdediger Ruud Nijstad (18) laat zich niet gek maken door interesse FC Barcelona: ’Die krant is een mooi souvenirtje’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/fc-twente-verdediger-ruud-nijstad-18-laat-zich-niet-gek-maken-door-interesse-fc-barcelona-die-krant-is-een-mooi-souvenirtje/164929602.html",
+   "published": "2026-11-22T15:31:00Z",
+   "clubs": [
+    "twente"
+   ],
+   "player": {
+    "name": "Ruud Nijstad",
+    "qid": "Q136294994",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/960px-Ruud_Nijstad_2025.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/500px-Ruud_Nijstad_2025.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ruud_Nijstad_2025.jpg",
+     "artist": "BasFCT",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+   }
   },
   {
    "id": "29231f167892",
@@ -135,7 +170,19 @@
    "published": "2026-11-22T13:00:45Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": {
+    "name": "Pascal Jansen",
+    "qid": "Q20978395",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg/960px-Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg/500px-Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_(cropped).jpg",
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "73d2971fd834",
@@ -831,7 +878,18 @@
    "clubs": [
     "twente"
    ],
-   "player": null
+   "player": {
+    "name": "Ruud Nijstad",
+    "qid": "Q136294994",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/960px-Ruud_Nijstad_2025.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/500px-Ruud_Nijstad_2025.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ruud_Nijstad_2025.jpg",
+     "artist": "BasFCT",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+   }
   },
   {
    "id": "3def4dfd0969",

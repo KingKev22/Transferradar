@@ -19,6 +19,10 @@
   "checked": "2026-11-19T01:36:54+00:00",
   "player": null
  },
+ "bruggink|ajax": {
+  "checked": "2026-11-22T17:03:51+00:00",
+  "player": null
+ },
  "buijs|fortuna": {
   "checked": "2026-11-18T03:10:28+00:00",
   "player": null
@@ -229,6 +233,21 @@
   "checked": "2026-11-19T21:09:41+00:00",
   "player": null
  },
+ "pascal jansen": {
+  "checked": "2026-11-22T17:03:57+00:00",
+  "player": {
+   "name": "Pascal Jansen",
+   "photo": {
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_(cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg/960px-Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg/500px-Pascal_Jansen_NYCFC_v_Charlotte_20_Sep_2025-042_%28cropped%29.jpg"
+   },
+   "qid": "Q20978395"
+  }
+ },
  "plug|feyenoord": {
   "checked": "2026-11-22T11:58:36+00:00",
   "player": null
@@ -254,6 +273,21 @@
     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ronaldinho_in_2019.jpg/500px-Ronaldinho_in_2019.jpg"
    },
    "qid": "Q39444"
+  }
+ },
+ "ruud nijstad": {
+  "checked": "2026-11-22T17:03:54+00:00",
+  "player": {
+   "name": "Ruud Nijstad",
+   "photo": {
+    "artist": "BasFCT",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Ruud_Nijstad_2025.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/960px-Ruud_Nijstad_2025.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ruud_Nijstad_2025.jpg/500px-Ruud_Nijstad_2025.jpg"
+   },
+   "qid": "Q136294994"
   }
  },
  "sittard|fortuna": {
