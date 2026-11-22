@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:03:46Z",
+ "updated": "2026-11-22T17:57:40Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,18 @@
   }
  ],
  "items": [
+  {
+   "id": "9a21f1902f23",
+   "title": "Fortuna Sittard verlengt fraaie reeks met zege bij Go Ahead Eagles",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6417439/fortuna-sittard-verlengt-fraaie-reeks-met-zege-bij-go-ahead-eagles.html",
+   "published": "2026-11-22T17:37:17Z",
+   "clubs": [
+    "fortuna",
+    "gae"
+   ],
+   "player": null
+  },
   {
    "id": "723be9a3abc7",
    "title": "Bruggink trekt fel van leer na blessure Mokio bij Ajax: 'Dit is écht heel lelijk'",
