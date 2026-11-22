@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:00:32Z",
+ "updated": "2026-11-22T22:59:44Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "94628bd10f6d",
+   "title": "FC Utrecht mogelijk niet op zoek naar nieuwe trainer: 'Is niet zomaar een budget'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161766/rene-van-den-berg-ziet-mark-otten-als-opvolger-bij-fc-utrecht.html",
+   "published": "2026-11-22T22:57:00Z",
+   "clubs": [
+    "utrecht"
+   ],
+   "player": null
+  },
   {
    "id": "3ea80d8b2c30",
    "title": "FC Utrecht neemt afscheid van Anthony Correia na tegenvallende resultaten",
