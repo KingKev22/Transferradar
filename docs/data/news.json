@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:57:40Z",
+ "updated": "2026-11-22T19:13:07Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "fb7b8dde5a5c",
+   "title": "Vertrekkende Buijs raast door met Fortuna: 'Jongens vechten voor elke grasspriet'",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/vertrekkende-buijs-raast-door-met-fortuna-jongens-vechten-voor-elke-grasspriet",
+   "published": "2026-11-22T18:32:32Z",
+   "clubs": [
+    "fortuna"
+   ]
+  },
   {
    "id": "9a21f1902f23",
    "title": "Fortuna Sittard verlengt fraaie reeks met zege bij Go Ahead Eagles",
