@@ -155,6 +155,10 @@
    "qid": "Q357984"
   }
  },
+ "kuip|feyenoord": {
+  "checked": "2026-11-22T11:58:39+00:00",
+  "player": null
+ },
  "leonardo|ajax": {
   "checked": "2026-11-19T01:36:51+00:00",
   "player": null
@@ -173,6 +177,10 @@
    },
    "qid": "Q113548346"
   }
+ },
+ "lullig|feyenoord": {
+  "checked": "2026-11-22T11:58:41+00:00",
+  "player": null
  },
  "maduro|psv": {
   "checked": "2026-11-21T19:11:04+00:00",
@@ -197,6 +205,10 @@
    "qid": "Q558689"
   }
  },
+ "moet var": {
+  "checked": "2026-11-22T11:58:42+00:00",
+  "player": null
+ },
  "mokio|ajax": {
   "checked": "2026-11-21T04:12:37+00:00",
   "player": null
@@ -215,6 +227,10 @@
  },
  "opsteker|ajax": {
   "checked": "2026-11-19T21:09:41+00:00",
+  "player": null
+ },
+ "plug|feyenoord": {
+  "checked": "2026-11-22T11:58:36+00:00",
   "player": null
  },
  "robin peter": {
