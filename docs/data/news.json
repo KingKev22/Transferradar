@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:59:44Z",
+ "updated": "2026-11-23T11:20:09Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,51 @@
   }
  ],
  "items": [
+  {
+   "id": "11cd5eec2976",
+   "title": "Ontslagen Correia neemt afscheid bij FC Utrecht en zegt 'nee' tegen ESPN-interview",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161916/ontslagen-anthony-correia-neemt-afscheid-bij-fc-utrecht.html",
+   "published": "2026-11-23T10:55:00Z",
+   "clubs": [
+    "utrecht"
+   ]
+  },
+  {
+   "id": "15bd74b55b61",
+   "title": "'FC Utrecht houdt door afspraken maar de helft over van transfer van smaakmaker'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161896/fc-utrecht-houdt-slechts-de-helft-over-van-eventuele-transfer-angel-alarcon.html",
+   "published": "2026-11-23T10:35:00Z",
+   "clubs": [
+    "utrecht"
+   ]
+  },
+  {
+   "id": "3cbc7091d57c",
+   "title": "Resterend Eredivisie-programma PSV, Ajax, Twente, Feyenoord en AZ tot winterstop",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/resterend-eredivisie-programma-psv-ajax-twente-feyenoord-en-az-tot-winterstop",
+   "published": "2026-11-23T10:20:47Z",
+   "clubs": [
+    "ajax",
+    "psv",
+    "feyenoord",
+    "az",
+    "twente"
+   ]
+  },
+  {
+   "id": "714c3acf5f7c",
+   "title": "Excelsior-parel geprezen na zege op Feyenoord: 'Hij gaat een mooie transfer maken'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161863/van-loen-prijst-excelsior-uitblinkers-plug-en-yegoian-na-zege-op-feyenoord.html",
+   "published": "2026-11-23T09:43:42Z",
+   "clubs": [
+    "feyenoord",
+    "excelsior"
+   ]
+  },
   {
    "id": "94628bd10f6d",
    "title": "FC Utrecht mogelijk niet op zoek naar nieuwe trainer: 'Is niet zomaar een budget'",
