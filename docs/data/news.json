@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:22:51Z",
+ "updated": "2026-11-23T19:23:13Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,28 @@
  ],
  "items": [
   {
+   "id": "538e4ffb53f8",
+   "title": "Emre Mor per direct weg bij N.E.C. wegens gezondheidsredenen",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17552294/eredivisie-nec-emre-mor-stopt-gezondheidsredenen",
+   "published": "2026-11-23T18:45:38Z",
+   "clubs": [
+    "nec"
+   ],
+   "player": {
+    "name": "Emre Mor",
+    "qid": "Q22007007",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emre_mor_%28cropped%29.jpg/960px-Emre_mor_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Emre_mor_%28cropped%29.jpg/500px-Emre_mor_%28cropped%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Emre_mor_(cropped).jpg",
+     "artist": "Harpagornis",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
+  },
+  {
    "id": "1389ab8370c0",
    "title": "Hadj Moussa keert terug bij Feyenoord, andere grote naam nog niet: 'Wellicht Ajax'",
    "source": "Voetbalprimeur",
@@ -116,7 +138,8 @@
    "clubs": [
     "ajax",
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "2caee4ad2a7d",
@@ -126,7 +149,8 @@
    "published": "2026-11-23T16:14:43Z",
    "clubs": [
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "ff1d2c35c212",
@@ -136,7 +160,41 @@
    "published": "2026-11-23T15:58:00Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Ruben van Bommel",
+    "qid": "Q113472436",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ruben_van_Bommel_-_Go_Ahead_Eagles_-_AZ_-_53716563287_%282024%29.jpg/960px-Ruben_van_Bommel_-_Go_Ahead_Eagles_-_AZ_-_53716563287_%282024%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ruben_van_Bommel_-_Go_Ahead_Eagles_-_AZ_-_53716563287_%282024%29.jpg/500px-Ruben_van_Bommel_-_Go_Ahead_Eagles_-_AZ_-_53716563287_%282024%29.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Ruben_van_Bommel_-_Go_Ahead_Eagles_-_AZ_-_53716563287_(2024).jpg",
+     "artist": "Carlo Bruil Fotografie",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0"
+    }
+   }
+  },
+  {
+   "id": "353ac67fce80",
+   "title": "Correia neemt na ontslag afscheid bij FC Utrecht: \"Tijd om alles te laten bezinken\"",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17551905/correia-afscheid-fc-utrecht-ontslag-eredivisie",
+   "published": "2026-11-23T15:56:18Z",
+   "clubs": [
+    "utrecht"
+   ],
+   "player": {
+    "name": "Anthony Correia",
+    "photo": {
+     "artist": "Michael Tjon En Fa",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Anthony_Correia.jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Anthony_Correia.jpg/960px-Anthony_Correia.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Anthony_Correia.jpg/500px-Anthony_Correia.jpg"
+    },
+    "qid": "Q2106776"
+   }
   },
   {
    "id": "12a85c7c489a",
@@ -147,7 +205,12 @@
    "clubs": [
     "ajax",
     "feyenoord"
-   ]
+   ],
+   "player": {
+    "name": "Anis Hadj Moussa",
+    "qid": "Q121946144",
+    "photo": null
+   }
   },
   {
    "id": "681fc519a2ba",
@@ -229,7 +292,8 @@
    "clubs": [
     "feyenoord",
     "excelsior"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "94628bd10f6d",
