@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:27:50Z",
+ "updated": "2026-11-23T17:22:51Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,48 @@
   }
  ],
  "items": [
+  {
+   "id": "1389ab8370c0",
+   "title": "Hadj Moussa keert terug bij Feyenoord, andere grote naam nog niet: 'Wellicht Ajax'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/videos/2162099/van-bronckhorst-geeft-daags-voor-feyenoord-fc-porto-een-medische-update.html",
+   "published": "2026-11-23T16:30:00Z",
+   "clubs": [
+    "ajax",
+    "feyenoord"
+   ]
+  },
+  {
+   "id": "2caee4ad2a7d",
+   "title": "Kan Feyenoord investeren in de winterse transferwindow? 'Dat gaan we bekijken'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/videos/2162078/van-bronckhorst-weet-niet-of-feyenoord-deze-winter-de-transfermarkt-op-gaat.html",
+   "published": "2026-11-23T16:14:43Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
+  {
+   "id": "ff1d2c35c212",
+   "title": "’Ruben van Bommel op weg naar recordtransfer voor PSV’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/podcast/ruben-van-bommel-op-weg-naar-recordtransfer-voor-psv/164986703.html",
+   "published": "2026-11-23T15:58:00Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "12a85c7c489a",
+   "title": "Feyenoord haalt opgelucht adem: steraanvaller Anis Hadj Moussa fit voor FC Porto en Ajax",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/feyenoord-haalt-opgelucht-adem-steraanvaller-anis-hadj-moussa-fit-voor-fc-porto-en-ajax/164984011.html",
+   "published": "2026-11-23T15:29:35Z",
+   "clubs": [
+    "ajax",
+    "feyenoord"
+   ]
+  },
   {
    "id": "681fc519a2ba",
    "title": "Voormalig Feyenoord-trainer Priske vlak voor duel met AZ weg bij Sparta Praag",
