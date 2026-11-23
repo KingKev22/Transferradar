@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:10:54Z",
+ "updated": "2026-11-23T23:13:02Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,36 @@
   }
  ],
  "items": [
+  {
+   "id": "3e2a2aeb9748",
+   "title": "Verweij verwacht megatransfer bij PSV: 'Hij gaat de recordverkoop worden'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162226/valentijn-driessen-en-mike-verweij-zijn-lovend-over-ruben-van-bommel-en-dichten-de.html",
+   "published": "2026-11-23T22:50:11Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "c9c7198531c6",
+   "title": "ABN AMRO staat voor terugkeer als hoofdsponsor van Ajax",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/abn-amro-staat-voor-terugkeer-als-hoofdsponsor-van-ajax",
+   "published": "2026-11-23T22:23:08Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
+  {
+   "id": "61df8020cbb8",
+   "title": "Driessen verrast door Ajax-deal: 'Ze halen echt veel geld uit de markt'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162183/valentijn-driessen-verbaasd-over-ajax-deal-met-abn-amro.html",
+   "published": "2026-11-23T22:18:52Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
   {
    "id": "997f4615eb6b",
    "title": "PSV-target Kevin De Bruyne haalt uit naar Italiaanse pers bij terugkeer naar City: ’Jullie mogen geen commentaar geven op mijn privéleven’",
