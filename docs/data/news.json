@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:20:09Z",
+ "updated": "2026-11-23T13:42:48Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,27 @@
   }
  ],
  "items": [
+  {
+   "id": "681fc519a2ba",
+   "title": "Voormalig Feyenoord-trainer Priske vlak voor duel met AZ weg bij Sparta Praag",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6417511/voormalig-feyenoord-trainer-priske-vlak-voor-duel-met-az-weg-bij-sparta-praag.html",
+   "published": "2026-11-23T13:06:39Z",
+   "clubs": [
+    "feyenoord",
+    "az"
+   ]
+  },
+  {
+   "id": "22907a98b98b",
+   "title": "Driessen: 'Dan moet PSV nog even twee keer nadenken over de komst van De Bruyne'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2161938/driessen-dan-moet-psv-nog-even-twee-keer-nadenken-over-de-komst-van-de-bruyne.html",
+   "published": "2026-11-23T12:07:03Z",
+   "clubs": [
+    "psv"
+   ]
+  },
   {
    "id": "11cd5eec2976",
    "title": "Ontslagen Correia neemt afscheid bij FC Utrecht en zegt 'nee' tegen ESPN-interview",
