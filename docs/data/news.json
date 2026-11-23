@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:42:48Z",
+ "updated": "2026-11-23T15:27:50Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -116,7 +116,8 @@
    "clubs": [
     "feyenoord",
     "az"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "22907a98b98b",
@@ -126,7 +127,19 @@
    "published": "2026-11-23T12:07:03Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
   },
   {
    "id": "11cd5eec2976",
@@ -136,7 +149,8 @@
    "published": "2026-11-23T10:55:00Z",
    "clubs": [
     "utrecht"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "15bd74b55b61",
@@ -146,7 +160,8 @@
    "published": "2026-11-23T10:35:00Z",
    "clubs": [
     "utrecht"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "3cbc7091d57c",
@@ -160,7 +175,8 @@
     "feyenoord",
     "az",
     "twente"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "714c3acf5f7c",
@@ -192,7 +208,19 @@
    "published": "2026-11-22T20:32:34Z",
    "clubs": [
     "utrecht"
-   ]
+   ],
+   "player": {
+    "name": "Anthony Correia",
+    "qid": "Q2106776",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Anthony_Correia.jpg/960px-Anthony_Correia.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Anthony_Correia.jpg/500px-Anthony_Correia.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Anthony_Correia.jpg",
+     "artist": "Michael Tjon En Fa",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "8e7521051954",
@@ -202,7 +230,19 @@
    "published": "2026-11-22T19:00:00Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": {
+    "name": "Jorthy Mokio",
+    "qid": "Q125130980",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jorthy_Mokio.JPG/960px-Jorthy_Mokio.JPG",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jorthy_Mokio.JPG/500px-Jorthy_Mokio.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Jorthy_Mokio.JPG",
+     "artist": "Hans Reefman",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "fb7b8dde5a5c",
@@ -212,7 +252,8 @@
    "published": "2026-11-22T18:32:32Z",
    "clubs": [
     "fortuna"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "9a21f1902f23",
@@ -235,7 +276,18 @@
    "clubs": [
     "ajax"
    ],
-   "player": null
+   "player": {
+    "name": "Jorthy Mokio",
+    "qid": "Q125130980",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jorthy_Mokio.JPG/960px-Jorthy_Mokio.JPG",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jorthy_Mokio.JPG/500px-Jorthy_Mokio.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Jorthy_Mokio.JPG",
+     "artist": "Hans Reefman",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
   },
   {
    "id": "19ab0087979a",
