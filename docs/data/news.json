@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:23:13Z",
+ "updated": "2026-11-23T21:10:18Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "8d2b1dfa9a69",
+   "title": "'Ajax nadert akkoord met nieuwe hoofdsponsor en krijgt 12 miljoen per seizoen'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162205/ajax-dicht-bij-vijfjarige-sponsordeal-met-abn-amro-van-60-miljoen.html",
+   "published": "2026-11-23T20:52:00Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "538e4ffb53f8",
    "title": "Emre Mor per direct weg bij N.E.C. wegens gezondheidsredenen",
