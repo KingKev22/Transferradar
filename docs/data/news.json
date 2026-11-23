@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:10:18Z",
+ "updated": "2026-11-23T22:10:54Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "997f4615eb6b",
+   "title": "PSV-target Kevin De Bruyne haalt uit naar Italiaanse pers bij terugkeer naar City: ’Jullie mogen geen commentaar geven op mijn privéleven’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/psv-target-kevin-de-bruyne-haalt-uit-naar-italiaanse-pers-bij-terugkeer-naar-city-jullie-mogen-geen-commentaar-geven-op-mijn-priveleven/165002508.html",
+   "published": "2026-11-23T21:13:56Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
   {
    "id": "8d2b1dfa9a69",
    "title": "'Ajax nadert akkoord met nieuwe hoofdsponsor en krijgt 12 miljoen per seizoen'",
