@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:48:36Z",
+ "updated": "2026-11-24T09:30:58Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,39 @@
   }
  ],
  "items": [
+  {
+   "id": "8c1ca3283ce3",
+   "title": "PSV-target De Bruyne boos op Italiaanse pers: 'Onprettig voor mij en mijn vrouw'",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6417565/psv-target-de-bruyne-boos-op-italiaanse-pers-onprettig-voor-mij-en-mijn-vrouw.html",
+   "published": "2026-11-24T09:02:38Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
+  {
+   "id": "b7d50c7c40ff",
+   "title": "AZ presenteert plannen om stadion uit te breiden",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/az-presenteert-plannen-om-stadion-uit-te-breiden",
+   "published": "2026-11-24T07:53:15Z",
+   "clubs": [
+    "az"
+   ],
+   "player": null
+  },
   {
    "id": "31d0eab8410e",
    "title": "'Mijn transfer naar Feyenoord is mijn beste beslissing, geen seconde spijt gehad'",
