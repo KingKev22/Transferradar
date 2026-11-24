@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:12:46Z",
+ "updated": "2026-11-24T16:29:23Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "c28a0a4e7481",
+   "title": "PSV-fans dromen van komst De Bruyne: 'Dan is het kampioenschap binnen'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/videos/2162453/psv-fans-dromen-van-komst-kevin-de-bruyne-naar-eindhoven.html",
+   "published": "2026-11-24T16:10:00Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
   {
    "id": "fcf095e31129",
    "title": "Romantische Feyenoord-terugkeer geopperd: 'Dat zou hij denk ik wel willen'",
