@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:21:53Z",
+ "updated": "2026-11-24T07:48:36Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,26 @@
   }
  ],
  "items": [
+  {
+   "id": "31d0eab8410e",
+   "title": "'Mijn transfer naar Feyenoord is mijn beste beslissing, geen seconde spijt gehad'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162255/marmol-gelooft-in-ommekeer-bij-feyenoord.html",
+   "published": "2026-11-24T06:53:24Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
+  {
+   "id": "da8c66a20c17",
+   "title": "Door PSV begeerde Kevin De Bruyne haalt bij terugkeer in Manchester uit naar Italiaanse pers",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/door-psv-begeerde-kevin-de-bruyne-haalt-bij-terugkeer-in-manchester-uit-naar-italiaanse-pers~af617191/",
+   "published": "2026-11-24T06:30:00Z",
+   "clubs": [
+    "psv"
+   ]
+  },
   {
    "id": "3e2a2aeb9748",
    "title": "Verweij verwacht megatransfer bij PSV: 'Hij gaat de recordverkoop worden'",
