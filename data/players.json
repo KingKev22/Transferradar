@@ -1,4 +1,8 @@
 {
+ "abn amro": {
+  "checked": "2026-11-24T04:22:01+00:00",
+  "player": null
+ },
  "ac milan": {
   "checked": "2026-11-18T16:23:12+00:00",
   "player": null
@@ -104,6 +108,10 @@
   "checked": "2026-11-18T03:10:44+00:00",
   "player": null
  },
+ "driessen|ajax": {
+  "checked": "2026-11-24T04:22:04+00:00",
+  "player": null
+ },
  "duurste nederlandse": {
   "checked": "2026-11-18T03:10:48+00:00",
   "player": null
@@ -165,6 +173,10 @@
  },
  "hij|excelsior,feyenoord": {
   "checked": "2026-11-23T19:23:37+00:00",
+  "player": null
+ },
+ "hij|psv": {
+  "checked": "2026-11-24T04:21:59+00:00",
   "player": null
  },
  "hofstede|telstar": {
@@ -471,6 +483,10 @@
  },
  "vertrekkende buijs": {
   "checked": "2026-11-23T15:28:13+00:00",
+  "player": null
+ },
+ "verweij|psv": {
+  "checked": "2026-11-24T04:21:57+00:00",
   "player": null
  },
  "voormalig|az,feyenoord": {

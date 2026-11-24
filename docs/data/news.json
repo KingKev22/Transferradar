@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:13:02Z",
+ "updated": "2026-11-24T04:21:53Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,8 @@
    "published": "2026-11-23T22:50:11Z",
    "clubs": [
     "psv"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "c9c7198531c6",
@@ -125,7 +126,8 @@
    "published": "2026-11-23T22:23:08Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "61df8020cbb8",
@@ -135,7 +137,8 @@
    "published": "2026-11-23T22:18:52Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "997f4615eb6b",
