@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:22:50Z",
+ "updated": "2026-11-24T21:14:05Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "f181aa966eae",
+   "title": "Van Persie vol in beeld: oud-trainer van Feyenoord kortstondig terug in De Kuip",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162586/robin-van-persie-kortstondig-terug-in-de-kuip.html",
+   "published": "2026-11-24T20:20:59Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
   {
    "id": "a3e5809c232c",
    "title": "PSV-fans hopen op terugkeer 'machine': 'Type Jaap Stam, altijd welkom'",
