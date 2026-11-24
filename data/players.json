@@ -100,6 +100,10 @@
    "qid": "Q357984"
   }
  },
+ "de kuip|feyenoord": {
+  "checked": "2026-11-24T22:17:37+00:00",
+  "player": null
+ },
  "doel|excelsior": {
   "checked": "2026-11-20T18:14:48+00:00",
   "player": null
@@ -469,12 +473,20 @@
   "checked": "2026-11-18T03:10:16+00:00",
   "player": null
  },
+ "type jaap stam": {
+  "checked": "2026-11-24T22:17:39+00:00",
+  "player": null
+ },
  "van bommel|psv": {
   "checked": "2026-11-18T03:10:40+00:00",
   "player": null
  },
  "van bronkchorst|excelsior": {
   "checked": "2026-11-20T18:14:46+00:00",
+  "player": null
+ },
+ "van persie|feyenoord": {
+  "checked": "2026-11-24T22:17:35+00:00",
   "player": null
  },
  "veldman|heerenveen": {
