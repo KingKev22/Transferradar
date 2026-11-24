@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:29:23Z",
+ "updated": "2026-11-24T18:08:09Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "0bce51919bc9",
+   "title": "'Liverpool zet Ajax-toptalent op shortlist en denkt aan winterse transfer'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162508/liverpool-zet-ajax-toptalent-ouazane-op-shortlist.html",
+   "published": "2026-11-24T17:22:29Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "c28a0a4e7481",
    "title": "PSV-fans dromen van komst De Bruyne: 'Dan is het kampioenschap binnen'",
