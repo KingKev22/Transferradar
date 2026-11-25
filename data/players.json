@@ -42,6 +42,10 @@
    "qid": "Q2106776"
   }
  },
+ "arena|ajax": {
+  "checked": "2026-11-25T22:19:41+00:00",
+  "player": null
+ },
  "bayern|psv": {
   "checked": "2026-11-25T11:17:36+00:00",
   "player": null
@@ -543,6 +547,14 @@
  },
  "witte|ajax": {
   "checked": "2026-11-25T09:36:09+00:00",
+  "player": null
+ },
+ "youth league": {
+  "checked": "2026-11-25T22:19:37+00:00",
+  "player": null
+ },
+ "ziedende|ajax": {
+  "checked": "2026-11-25T22:19:39+00:00",
   "player": null
  }
 }
