@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:36:04Z",
+ "updated": "2026-11-25T11:17:30Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,50 @@
   }
  ],
  "items": [
+  {
+   "id": "0ebc90a6ab0d",
+   "title": "FC Bankzaken: kaartenhuis Fortuna presenteert subtop KKD-inkomsten",
+   "source": "VI",
+   "link": "https://www.vi.nl/pro/fc-bankzaken-waarom-fortuna-dreigt-te-verdrinken-in-financieel-moeras",
+   "published": "2026-11-25T11:00:00Z",
+   "clubs": [
+    "fortuna"
+   ],
+   "player": null
+  },
+  {
+   "id": "b336140fd946",
+   "title": "Bayern-icoon Hagreaves bewierookt 'PSV-target': 'Hij speelde als een chirurg'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162764/kevin-de-bruyne-krijgt-lof-na-manchester-city-napoli.html",
+   "published": "2026-11-25T10:16:06Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": null
+  },
+  {
+   "id": "ad28190247d6",
+   "title": "Ajax bevestigt terugkeer ABN AMRO als hoofdsponsor: 'Grote successen gevierd'",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6417721/ajax-bevestigt-terugkeer-abn-amro-als-hoofdsponsor-grote-successen-gevierd.html",
+   "published": "2026-11-25T09:44:01Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
+  {
+   "id": "a14a87d4f474",
+   "title": "Ajax presenteert ABN AMRO als nieuwe hoofdsponsor",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/ajax-presenteert-abn-amro-als-nieuwe-hoofdsponsor",
+   "published": "2026-11-25T09:40:14Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "a5e4bccbc2f5",
    "title": "Witte rook: Ajax bevestigt 'heel goed nieuws' en presenteert nieuwe hoofdsponsor",
