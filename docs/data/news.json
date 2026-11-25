@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:19:04Z",
+ "updated": "2026-11-25T21:16:46Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,36 @@
   }
  ],
  "items": [
+  {
+   "id": "73378ea77362",
+   "title": "AZ wint niet in Youth League ondanks goede tweede helft, cruciale return op komst",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163070/az-speelt-eerste-wedstrijd-in-youth-league-gelijk-tegen-rangers.html",
+   "published": "2026-11-25T21:03:50Z",
+   "clubs": [
+    "az"
+   ]
+  },
+  {
+   "id": "4b9720abc0da",
+   "title": "Napoli-directeur reageert luid en duidelijk op eventuele PSV-transfer De Bruyne",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163062/napoli-directeur-reageert-luid-en-duidelijk-op-eventuele-psv-transfer-de-bruyne.html",
+   "published": "2026-11-25T20:55:32Z",
+   "clubs": [
+    "psv"
+   ]
+  },
+  {
+   "id": "96a0e55989af",
+   "title": "''Ziedende' ABN Amro-leden kondigen actie aan in ArenA na deal met Ajax'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163047/de-leden-van-de-abn-amro-zijn-ziedend-om-de-nieuwe-sponsordeal-met-ajax.html",
+   "published": "2026-11-25T20:13:01Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
   {
    "id": "10b3f96bfa72",
    "title": "'Deze deal is fantastisch voor Ajax, maar bij ABN Amro kunnen ze niet rekenen'",
