@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:43:26Z",
+ "updated": "2026-11-25T17:19:04Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "10b3f96bfa72",
+   "title": "'Deze deal is fantastisch voor Ajax, maar bij ABN Amro kunnen ze niet rekenen'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162996/woerts-kijkt-op-van-zwaar-overbetaalde-ajax-deal-met-abn-amro.html",
+   "published": "2026-11-25T17:17:14Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
+  {
+   "id": "9cc8610fb8bc",
+   "title": "Geelen blij met nieuwe Ajax-deal: 'We dachten: dit zou lastig traject kunnen zijn'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162954/geelen-blij-met-abn-amro-als-nieuwe-hoofdsponsor-van-ajax.html",
+   "published": "2026-11-25T15:42:00Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "f34a9ef0da39",
    "title": "NEC gaat in januari de transfermarkt op voor vervanger Mor",
