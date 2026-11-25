@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:02:22Z",
+ "updated": "2026-11-25T09:36:04Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "a5e4bccbc2f5",
+   "title": "Witte rook: Ajax bevestigt 'heel goed nieuws' en presenteert nieuwe hoofdsponsor",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2162770/witte-rook-ajax-presenteert-nieuwe-hoofdsponsor-abn-amro.html",
+   "published": "2026-11-25T09:33:55Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "af608cf61c7b",
    "title": "Napoli-trainer Allegri sluit wintertransfer De Bruyne naar PSV uit: ’Ik geloof dat Kevin blijft tot juni’",
