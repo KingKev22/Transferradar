@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:17:30Z",
+ "updated": "2026-11-25T13:43:26Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "f34a9ef0da39",
+   "title": "NEC gaat in januari de transfermarkt op voor vervanger Mor",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/villarreal-en-bundesliga-clubs-hebben-fc-twente-revelatie-weidmann-in-vizier",
+   "published": "2026-11-25T11:23:48Z",
+   "clubs": [
+    "nec"
+   ],
+   "player": {
+    "name": "Emre Mor",
+    "photo": {
+     "artist": "Harpagornis",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Emre_mor_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emre_mor_%28cropped%29.jpg/960px-Emre_mor_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Emre_mor_%28cropped%29.jpg/500px-Emre_mor_%28cropped%29.jpg"
+    },
+    "qid": "Q22007007"
+   }
+  },
   {
    "id": "0ebc90a6ab0d",
    "title": "FC Bankzaken: kaartenhuis Fortuna presenteert subtop KKD-inkomsten",
