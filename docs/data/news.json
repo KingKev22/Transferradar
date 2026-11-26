@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:08:28Z",
+ "updated": "2026-11-26T21:12:18Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "07b2f9d3636e",
+   "title": "Clubicoon haalt hard uit naar Feyenoord-doelman: 'Niet Feyenoord-waardig'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163446/zoetebier-zet-grote-vraagtekens-bij-keepersbeleid-feyenoord.html",
+   "published": "2026-11-26T20:49:00Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
   {
    "id": "a7b2059c4e96",
    "title": "Blind keert terug in Ajax-basis: 'Heeft veel langer geduurd dan ik had gehoopt'",
