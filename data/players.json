@@ -362,6 +362,14 @@
   "checked": "2026-11-21T15:06:12+00:00",
   "player": null
  },
+ "nieuws|feyenoord": {
+  "checked": "2026-11-26T09:32:20+00:00",
+  "player": null
+ },
+ "nieuw|feyenoord": {
+  "checked": "2026-11-26T09:32:15+00:00",
+  "player": null
+ },
  "nijstad|twente": {
   "checked": "2026-11-18T16:23:08+00:00",
   "player": null
@@ -432,6 +440,10 @@
    "qid": "Q39444"
   }
  },
+ "rotterdam|feyenoord": {
+  "checked": "2026-11-26T09:32:23+00:00",
+  "player": null
+ },
  "ruben van bommel": {
   "checked": "2026-11-23T19:23:24+00:00",
   "player": {
@@ -461,6 +473,10 @@
    },
    "qid": "Q136294994"
   }
+ },
+ "schaken|feyenoord": {
+  "checked": "2026-11-26T09:32:18+00:00",
+  "player": null
  },
  "sittard|fortuna": {
   "checked": "2026-11-18T03:10:26+00:00",
@@ -499,6 +515,10 @@
  },
  "tijd|utrecht": {
   "checked": "2026-11-23T19:23:29+00:00",
+  "player": null
+ },
+ "tillman|psv": {
+  "checked": "2026-11-26T09:32:25+00:00",
   "player": null
  },
  "toe|fortuna": {

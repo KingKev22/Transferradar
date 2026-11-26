@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:45:07Z",
+ "updated": "2026-11-26T09:32:10Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,50 @@
   }
  ],
  "items": [
+  {
+   "id": "dd264c9c90d1",
+   "title": "Transfers Feyenoord: 'Nieuw contract recordbreker Schaken (17) nabij'",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/transfers-feyenoord-volg-in-dit-liveblog-alle-transferperikelen-rondom-feyenoord",
+   "published": "2026-11-26T09:00:50Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": null
+  },
+  {
+   "id": "ebb4debea342",
+   "title": "'Nieuws uit Rotterdam: Feyenoord nadert akkoord over contractverlenging van parel'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163166/feyenoord-nadert-akkoord-met-jerayno-schaken-over-nieuw-contract.html",
+   "published": "2026-11-26T08:49:00Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": null
+  },
+  {
+   "id": "ef6fd1228451",
+   "title": "'Ajax heeft versterking binnen en verzekerd zich van komst 'doelpuntenmachine''",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163148/ajax-neemt-semih-arslan-over-van-fc-den-bosch.html",
+   "published": "2026-11-26T08:22:00Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
+  {
+   "id": "fcbdb2198cf1",
+   "title": "'PSV heeft er mogelijk optie bij: Tillman denkt aan winters vertrek'",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/psv-heeft-er-mogelijk-optie-bij-tillman-denkt-aan-winters-vertrek",
+   "published": "2026-11-26T08:02:28Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": null
+  },
   {
    "id": "46217ca64a5d",
    "title": "PSV verlengt partnership tot medio 2031, 'Eindhovenaren ontvangen miljoenen'",
