@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:25:03Z",
+ "updated": "2026-11-26T18:08:28Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "a7b2059c4e96",
+   "title": "Blind keert terug in Ajax-basis: 'Heeft veel langer geduurd dan ik had gehoopt'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163387/daley-blind-wil-zich-laten-zien-bij-terugkeer-in-ajax-basis.html",
+   "published": "2026-11-26T17:21:25Z",
+   "clubs": [
+    "ajax"
+   ]
+  },
   {
    "id": "5fb5bc3d1521",
    "title": "La Liga lonkt voor smaakmaker FC Twente: 'Dat bedrag is veel te weinig voor hem'",
