@@ -58,6 +58,10 @@
   "checked": "2026-11-19T01:36:54+00:00",
   "player": null
  },
+ "blind|ajax": {
+  "checked": "2026-11-26T22:16:22+00:00",
+  "player": null
+ },
  "bologna|az": {
   "checked": "2026-11-26T07:45:14+00:00",
   "player": null
@@ -77,6 +81,10 @@
    "photo": null,
    "qid": "Q128719"
   }
+ },
+ "clubicoon|feyenoord": {
+  "checked": "2026-11-26T22:16:17+00:00",
+  "player": null
  },
  "correia|utrecht": {
   "checked": "2026-11-23T19:23:26+00:00",
@@ -230,6 +238,10 @@
   "checked": "2026-11-18T16:23:01+00:00",
   "player": null
  },
+ "heeft|ajax": {
+  "checked": "2026-11-26T22:16:25+00:00",
+  "player": null
+ },
  "hij|excelsior,feyenoord": {
   "checked": "2026-11-23T19:23:37+00:00",
   "player": null
@@ -311,6 +323,10 @@
   "checked": "2026-11-22T11:58:39+00:00",
   "player": null
  },
+ "la liga|twente": {
+  "checked": "2026-11-26T22:16:27+00:00",
+  "player": null
+ },
  "leonardo|ajax": {
   "checked": "2026-11-19T01:36:51+00:00",
   "player": null
@@ -329,6 +345,10 @@
    },
    "qid": "Q113548346"
   }
+ },
+ "lukkien|groningen": {
+  "checked": "2026-11-26T22:16:30+00:00",
+  "player": null
  },
  "lullig|feyenoord": {
   "checked": "2026-11-22T11:58:41+00:00",
@@ -379,6 +399,10 @@
  },
  "niet|ado,ajax": {
   "checked": "2026-11-21T15:06:12+00:00",
+  "player": null
+ },
+ "niet|feyenoord": {
+  "checked": "2026-11-26T22:16:20+00:00",
   "player": null
  },
  "nieuws|feyenoord": {

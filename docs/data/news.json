@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:12:18Z",
+ "updated": "2026-11-26T22:16:14Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,8 @@
    "published": "2026-11-26T20:49:00Z",
    "clubs": [
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "a7b2059c4e96",
@@ -125,7 +126,8 @@
    "published": "2026-11-26T17:21:25Z",
    "clubs": [
     "ajax"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "5fb5bc3d1521",
@@ -135,7 +137,8 @@
    "published": "2026-11-26T15:30:00Z",
    "clubs": [
     "twente"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "9d06b810183a",
@@ -145,7 +148,19 @@
    "published": "2026-11-26T14:47:00Z",
    "clubs": [
     "groningen"
-   ]
+   ],
+   "player": {
+    "name": "Dick Lukkien",
+    "photo": {
+     "artist": "Hans Reefman",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Dick_lukkien-1702301307.JPG",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dick_lukkien-1702301307.JPG/960px-Dick_lukkien-1702301307.JPG",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dick_lukkien-1702301307.JPG/500px-Dick_lukkien-1702301307.JPG"
+    },
+    "qid": "Q20972402"
+   }
   },
   {
    "id": "99d22d90b5db",
