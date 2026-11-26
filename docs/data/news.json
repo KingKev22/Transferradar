@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:32:10Z",
+ "updated": "2026-11-26T12:22:59Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "7893de51bc58",
+   "title": "TransferTalk | Feyenoord praat met Schaken over openbreken contract, IJsselmeervogels haalt oud-trainer Sparta",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/transfertalk-feyenoord-praat-met-schaken-over-openbreken-contract-ijsselmeervogels-haalt-oud-trainer-sparta~abfbf81f/",
+   "published": "2026-11-26T12:00:00Z",
+   "clubs": [
+    "feyenoord",
+    "sparta"
+   ]
+  },
   {
    "id": "dd264c9c90d1",
    "title": "Transfers Feyenoord: 'Nieuw contract recordbreker Schaken (17) nabij'",
