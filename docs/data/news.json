@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:05:28Z",
+ "updated": "2026-11-26T07:45:07Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,28 @@
   }
  ],
  "items": [
+  {
+   "id": "46217ca64a5d",
+   "title": "PSV verlengt partnership tot medio 2031, 'Eindhovenaren ontvangen miljoenen'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163134/psv-presenteert-50-mobiel-als-nieuwe-rugpartner.html",
+   "published": "2026-11-26T07:25:00Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": null
+  },
+  {
+   "id": "cd4fa3cb830a",
+   "title": "'Bologna en Auxerre informeren bij AZ, ook Engelse clubs tonen interesse'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163117/interesse-uit-italie-frankrijk-en-engeland-voor-az-doelman-owusu-oduro.html",
+   "published": "2026-11-26T06:51:51Z",
+   "clubs": [
+    "az"
+   ],
+   "player": null
+  },
   {
    "id": "3e1583292828",
    "title": "Heldere boodschap voor PSV-target De Bruyne: 'Gaat bij Napoli geen prijzen pakken'",

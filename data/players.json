@@ -46,12 +46,20 @@
   "checked": "2026-11-25T22:19:41+00:00",
   "player": null
  },
+ "auxerre|az": {
+  "checked": "2026-11-26T07:45:17+00:00",
+  "player": null
+ },
  "bayern|psv": {
   "checked": "2026-11-25T11:17:36+00:00",
   "player": null
  },
  "blij|ajax": {
   "checked": "2026-11-19T01:36:54+00:00",
+  "player": null
+ },
+ "bologna|az": {
+  "checked": "2026-11-26T07:45:14+00:00",
   "player": null
  },
  "bruggink|ajax": {
@@ -128,6 +136,10 @@
   "checked": "2026-11-18T03:10:48+00:00",
   "player": null
  },
+ "eindhovenaren|psv": {
+  "checked": "2026-11-26T07:45:11+00:00",
+  "player": null
+ },
  "emre mor": {
   "checked": "2026-11-23T19:23:17+00:00",
   "player": {
@@ -142,6 +154,10 @@
    },
    "qid": "Q22007007"
   }
+ },
+ "engelse|az": {
+  "checked": "2026-11-26T07:45:20+00:00",
+  "player": null
  },
  "europees|heerenveen": {
   "checked": "2026-11-19T21:09:50+00:00",
