@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:22:59Z",
+ "updated": "2026-11-26T14:32:03Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,52 @@
  ],
  "items": [
   {
+   "id": "99d22d90b5db",
+   "title": "LIVE eredivisie | Dick Lukkien keert terug op de bank bij FC Groningen, Allard Lindhout fluit Feyenoord - Ajax",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/live-eredivisie-dick-lukkien-keert-terug-op-de-bank-bij-fc-groningen-allard-lindhout-fluit-feyenoord-ajax~a378dc98/",
+   "published": "2026-11-26T13:03:00Z",
+   "clubs": [
+    "ajax",
+    "feyenoord",
+    "groningen"
+   ],
+   "player": {
+    "name": "Dick Lukkien",
+    "qid": "Q20972402",
+    "photo": {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dick_lukkien-1702301307.JPG/960px-Dick_lukkien-1702301307.JPG",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dick_lukkien-1702301307.JPG/500px-Dick_lukkien-1702301307.JPG",
+     "page": "https://commons.wikimedia.org/wiki/File:Dick_lukkien-1702301307.JPG",
+     "artist": "Hans Reefman",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+   }
+  },
+  {
+   "id": "834e0a79ed90",
+   "title": "Van Dijk gevraagd naar PSV-geruchten rond De Bruyne: 'Dan heb je een probleem'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163263/virgil-van-dijk-weet-weinig-over-eventuele-psv-transfer-van-kevin-de-bruyne.html",
+   "published": "2026-11-26T12:44:36Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Kevin De Bruyne",
+    "photo": {
+     "artist": "Bryan Berlin",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/500px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
+    },
+    "qid": "Q357984"
+   }
+  },
+  {
    "id": "7893de51bc58",
    "title": "TransferTalk | Feyenoord praat met Schaken over openbreken contract, IJsselmeervogels haalt oud-trainer Sparta",
    "source": "AD",
@@ -116,7 +162,8 @@
    "clubs": [
     "feyenoord",
     "sparta"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "dd264c9c90d1",

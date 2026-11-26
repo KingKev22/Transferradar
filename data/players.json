@@ -120,6 +120,21 @@
   "checked": "2026-11-24T22:17:37+00:00",
   "player": null
  },
+ "dick lukkien": {
+  "checked": "2026-11-26T14:32:08+00:00",
+  "player": {
+   "name": "Dick Lukkien",
+   "photo": {
+    "artist": "Hans Reefman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dick_lukkien-1702301307.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dick_lukkien-1702301307.JPG/960px-Dick_lukkien-1702301307.JPG",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dick_lukkien-1702301307.JPG/500px-Dick_lukkien-1702301307.JPG"
+   },
+   "qid": "Q20972402"
+  }
+ },
  "doel|excelsior": {
   "checked": "2026-11-20T18:14:48+00:00",
   "player": null
@@ -229,6 +244,10 @@
  },
  "hoop|feyenoord": {
   "checked": "2026-11-18T03:10:18+00:00",
+  "player": null
+ },
+ "ijsselmeervogels|feyenoord,sparta": {
+  "checked": "2026-11-26T14:32:15+00:00",
   "player": null
  },
  "israel|twente": {
@@ -478,6 +497,10 @@
   "checked": "2026-11-26T09:32:18+00:00",
   "player": null
  },
+ "schaken|feyenoord,sparta": {
+  "checked": "2026-11-26T14:32:13+00:00",
+  "player": null
+ },
  "sittard|fortuna": {
   "checked": "2026-11-18T03:10:26+00:00",
   "player": null
@@ -547,6 +570,10 @@
  },
  "van bronkchorst|excelsior": {
   "checked": "2026-11-20T18:14:46+00:00",
+  "player": null
+ },
+ "van dijk|psv": {
+  "checked": "2026-11-26T14:32:11+00:00",
   "player": null
  },
  "van persie|feyenoord": {
