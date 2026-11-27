@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:11:55Z",
+ "updated": "2026-11-27T12:16:59Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,18 @@
   }
  ],
  "items": [
+  {
+   "id": "23f82f832cff",
+   "title": "TransferTalk | Feyenoord en Schaken bereiken akkoord over verlenging, IJsselmeervogels haalt oud-trainer Sparta",
+   "source": "AD",
+   "link": "https://www.ad.nl/voetbal/transfertalk-feyenoord-en-schaken-bereiken-akkoord-over-verlenging-ijsselmeervogels-haalt-oud-trainer-sparta~abfbf81f/",
+   "published": "2026-11-27T11:40:00Z",
+   "clubs": [
+    "feyenoord",
+    "sparta"
+   ],
+   "player": null
+  },
   {
    "id": "93d0aba984de",
    "title": "Feyenoord en Jerayno Schaken (17) hebben principeakkoord over contractverlenging: ’Ik ben enorm dankbaar’",
