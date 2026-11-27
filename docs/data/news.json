@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:16:59Z",
+ "updated": "2026-11-27T13:44:00Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,16 @@
   }
  ],
  "items": [
+  {
+   "id": "439c44ada37a",
+   "title": "Nieuws uit Rotterdam-Zuid: Feyenoord presenteert nieuwe voorzitter van RvC",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163699/nieuws-uit-rotterdam-zuid-eelco-blok-volgt-toon-van-bodegom-als-voorzitter-rvc.html",
+   "published": "2026-11-27T13:14:02Z",
+   "clubs": [
+    "feyenoord"
+   ]
+  },
   {
    "id": "23f82f832cff",
    "title": "TransferTalk | Feyenoord en Schaken bereiken akkoord over verlenging, IJsselmeervogels haalt oud-trainer Sparta",
