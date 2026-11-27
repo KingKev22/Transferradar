@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:16:14Z",
+ "updated": "2026-11-27T07:44:43Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,27 @@
   }
  ],
  "items": [
+  {
+   "id": "2d7a5916a572",
+   "title": "Slot onthult detail over Feyenoord-transfer: 'Ajax had destijds ook interesse'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163531/arne-slot-onthult-verhaal-achter-transfer-anis-hadj-moussa.html",
+   "published": "2026-11-27T07:19:00Z",
+   "clubs": [
+    "ajax",
+    "feyenoord"
+   ]
+  },
+  {
+   "id": "978c25e3c1f6",
+   "title": "FC Twente trekt dubieuze penalty in twijfel: 'Hij tikt hem er net langs'",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/fc-twente-trekt-dubieuze-penalty-in-twijfel-hij-tikt-hem-er-net-langs",
+   "published": "2026-11-27T06:52:59Z",
+   "clubs": [
+    "twente"
+   ]
+  },
   {
    "id": "07b2f9d3636e",
    "title": "Clubicoon haalt hard uit naar Feyenoord-doelman: 'Niet Feyenoord-waardig'",
