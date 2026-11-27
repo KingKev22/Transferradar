@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:44:43Z",
+ "updated": "2026-11-27T09:31:55Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,27 @@
   }
  ],
  "items": [
+  {
+   "id": "91351f927ac6",
+   "title": "Kans dat geschorste Thomas tegen Twente terugkeert bij NEC is 'moeilijk verhaal'",
+   "source": "VI",
+   "link": "https://www.vi.nl/video/kans-dat-geschorste-thomas-zondag-terugkeert-bij-nec-is-klein-moeilijk-verhaal",
+   "published": "2026-11-27T09:27:19Z",
+   "clubs": [
+    "twente",
+    "nec"
+   ]
+  },
+  {
+   "id": "db042373c42d",
+   "title": "Technisch directeur Hansma verlengt bij Heerenveen: 'Europees voetbal bereiken'",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/technisch-directeur-hansma-verlengt-bij-heerenveen-europees-voetbal-bereiken",
+   "published": "2026-11-27T09:16:42Z",
+   "clubs": [
+    "heerenveen"
+   ]
+  },
   {
    "id": "2d7a5916a572",
    "title": "Slot onthult detail over Feyenoord-transfer: 'Ajax had destijds ook interesse'",
