@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:15:16Z",
+ "updated": "2026-11-27T22:18:11Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,18 @@
   }
  ],
  "items": [
+  {
+   "id": "0964e6e0f8e8",
+   "title": "Willem II geeft zege weg bij FC Groningen en breekt negatief Eredivisie-record",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6418066/willem-ii-geeft-zege-weg-bij-fc-groningen-en-breekt-negatief-eredivisie-record.html",
+   "published": "2026-11-27T21:06:45Z",
+   "clubs": [
+    "groningen",
+    "willem2"
+   ],
+   "player": null
+  },
   {
    "id": "22236fb61d47",
    "title": "'Flinke domper voor Napoli: PSV-target Kevin De Bruyne langs de kant met blessure'",
