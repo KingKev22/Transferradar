@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:31:55Z",
+ "updated": "2026-11-27T11:11:55Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -108,6 +108,54 @@
  ],
  "items": [
   {
+   "id": "93d0aba984de",
+   "title": "Feyenoord en Jerayno Schaken (17) hebben principeakkoord over contractverlenging: ’Ik ben enorm dankbaar’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/feyenoord-en-jerayno-schaken-17-hebben-principeakkoord-over-contractverlenging-ik-ben-enorm-dankbaar/165197919.html",
+   "published": "2026-11-27T10:51:18Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": {
+    "name": "Jerayno Schaken",
+    "qid": "Q141315971",
+    "photo": null
+   }
+  },
+  {
+   "id": "1807231c5d33",
+   "title": "Feyenoord en Schaken akkoord over contractverlenging",
+   "source": "VI",
+   "link": "https://www.vi.nl/nieuws/feyenoord-en-schaken-akkoord-over-contractverlenging",
+   "published": "2026-11-27T10:28:38Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": null
+  },
+  {
+   "id": "81e6809343a2",
+   "title": "Heerenveen verlengt met technische man: 'Gezamenlijke koers richting Europa'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163605/johan-hansma-verlengt-tot-medio-2029-als-technisch-directeur-van-sc-heerenveen.html",
+   "published": "2026-11-27T10:19:00Z",
+   "clubs": [
+    "heerenveen"
+   ],
+   "player": null
+  },
+  {
+   "id": "dcff6c9507e6",
+   "title": "Feyenoord slaat slag met nieuwe deal voor toptalent: 'Heel blij en trots'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2163624/jerayno-schaken-gaat-contract-bij-feyenoord-verlengen.html",
+   "published": "2026-11-27T10:08:00Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": null
+  },
+  {
    "id": "91351f927ac6",
    "title": "Kans dat geschorste Thomas tegen Twente terugkeert bij NEC is 'moeilijk verhaal'",
    "source": "VI",
@@ -116,7 +164,8 @@
    "clubs": [
     "twente",
     "nec"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "db042373c42d",
@@ -126,7 +175,8 @@
    "published": "2026-11-27T09:16:42Z",
    "clubs": [
     "heerenveen"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "2d7a5916a572",
@@ -137,7 +187,8 @@
    "clubs": [
     "ajax",
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "978c25e3c1f6",
@@ -147,7 +198,8 @@
    "published": "2026-11-27T06:52:59Z",
    "clubs": [
     "twente"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "07b2f9d3636e",
