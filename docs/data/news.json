@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:44:00Z",
+ "updated": "2026-11-27T17:25:35Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -115,7 +115,8 @@
    "published": "2026-11-27T13:14:02Z",
    "clubs": [
     "feyenoord"
-   ]
+   ],
+   "player": null
   },
   {
    "id": "23f82f832cff",

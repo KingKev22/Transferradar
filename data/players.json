@@ -515,6 +515,10 @@
    "qid": "Q39444"
   }
  },
+ "rotterdam zuid|feyenoord": {
+  "checked": "2026-11-27T17:25:39+00:00",
+  "player": null
+ },
  "rotterdam|feyenoord": {
   "checked": "2026-11-26T09:32:23+00:00",
   "player": null
@@ -548,6 +552,10 @@
    },
    "qid": "Q136294994"
   }
+ },
+ "rvc|feyenoord": {
+  "checked": "2026-11-27T17:25:41+00:00",
+  "player": null
  },
  "schaken|feyenoord": {
   "checked": "2026-11-26T09:32:18+00:00",
