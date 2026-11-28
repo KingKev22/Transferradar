@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:40:22Z",
+ "updated": "2026-11-28T08:24:09Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,21 @@
   }
  ],
  "items": [
+  {
+   "id": "bb704bd94c8c",
+   "title": "Terugkeer Paul Wanner komt als geroepen voor PSV-trainer Peter Bosz: middenvelder spot met fysieke wetten",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/terugkeer-paul-wanner-komt-als-geroepen-voor-psv-trainer-peter-bosz-middenvelder-spot-met-fysieke-wetten/165241853.html",
+   "published": "2026-11-28T08:01:00Z",
+   "clubs": [
+    "psv"
+   ],
+   "player": {
+    "name": "Peter Bosz",
+    "qid": "Q1029982",
+    "photo": null
+   }
+  },
   {
    "id": "49b2e963584b",
    "title": "Feyenoord beloont Jerayno Schaken met nieuw contract",

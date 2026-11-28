@@ -472,6 +472,14 @@
    "qid": "Q20978395"
   }
  },
+ "peter bosz": {
+  "checked": "2026-11-28T08:24:15+00:00",
+  "player": {
+   "name": "Peter Bosz",
+   "photo": null,
+   "qid": "Q1029982"
+  }
+ },
  "plug|feyenoord": {
   "checked": "2026-11-22T11:58:36+00:00",
   "player": null
@@ -603,6 +611,10 @@
    },
    "qid": "Q160472"
   }
+ },
+ "terugkeer paul wanner": {
+  "checked": "2026-11-28T08:24:12+00:00",
+  "player": null
  },
  "thomas|nec,twente": {
   "checked": "2026-11-27T11:12:11+00:00",
