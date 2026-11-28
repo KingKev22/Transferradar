@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:24:32Z",
+ "updated": "2026-11-28T15:05:46Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -152,6 +152,28 @@
    }
   },
   {
+   "id": "c145b926139b",
+   "title": "Gertjan Verbeek haalt keihard uit naar Go Ahead-speler Thibo Baeten na GTA 6-bekentenis: ’Wat een lul-de-behanger is dat’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/gertjan-verbeek-haalt-keihard-uit-naar-go-ahead-speler-thibo-baeten-na-gta-6-bekentenis-wat-een-lul-de-behanger-is-dat/165247588.html",
+   "published": "2026-11-28T12:07:54Z",
+   "clubs": [
+    "gae"
+   ],
+   "player": {
+    "name": "Gertjan Verbeek",
+    "photo": {
+     "artist": "Садовников Дмитрий",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Gertjan_Verbeek_2012.jpg",
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gertjan_Verbeek_2012.jpg/500px-Gertjan_Verbeek_2012.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gertjan_Verbeek_2012.jpg/500px-Gertjan_Verbeek_2012.jpg"
+    },
+    "qid": "Q1094306"
+   }
+  },
+  {
    "id": "0ddbc1a0b7e9",
    "title": "In beeld | Ajax traint dag voor Klassieker voor afgeladen 'rode' tribunes",
    "source": "NU.nl",
@@ -159,6 +181,18 @@
    "published": "2026-11-28T12:07:02Z",
    "clubs": [
     "ajax"
+   ],
+   "player": null
+  },
+  {
+   "id": "9fc9b940dec1",
+   "title": "In beeld | Volle tribunes bij Ajax, Feyenoord laat zich kort zien voor Klassieker",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6418099/volle-tribunes-bij-ajax-feyenoord-laat-zich-kort-zien-voor-klassieker.html",
+   "published": "2026-11-28T12:07:02Z",
+   "clubs": [
+    "ajax",
+    "feyenoord"
    ],
    "player": null
   },

@@ -374,6 +374,10 @@
   "checked": "2026-11-28T13:24:47+00:00",
   "player": null
  },
+ "klassieker|ajax,feyenoord": {
+  "checked": "2026-11-28T15:05:52+00:00",
+  "player": null
+ },
  "kuip|feyenoord": {
   "checked": "2026-11-22T11:58:39+00:00",
   "player": null
@@ -725,6 +729,10 @@
  },
  "verweij|psv": {
   "checked": "2026-11-24T04:21:57+00:00",
+  "player": null
+ },
+ "volle|ajax,feyenoord": {
+  "checked": "2026-11-28T15:05:49+00:00",
   "player": null
  },
  "voormalig|az,feyenoord": {
