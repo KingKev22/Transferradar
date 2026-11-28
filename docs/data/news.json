@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:18:11Z",
+ "updated": "2026-11-28T01:40:22Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,21 @@
   }
  ],
  "items": [
+  {
+   "id": "49b2e963584b",
+   "title": "Feyenoord beloont Jerayno Schaken met nieuw contract",
+   "source": "ESPN",
+   "link": "https://www.espn.nl/voetbal/artikel/_/id/17568413/feyenoord-jerayno-schaken-contractverlenging",
+   "published": "2026-11-27T22:24:37Z",
+   "clubs": [
+    "feyenoord"
+   ],
+   "player": {
+    "name": "Jerayno Schaken",
+    "photo": null,
+    "qid": "Q141315971"
+   }
+  },
   {
    "id": "0964e6e0f8e8",
    "title": "Willem II geeft zege weg bij FC Groningen en breekt negatief Eredivisie-record",
