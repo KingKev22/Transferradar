@@ -178,6 +178,10 @@
    "qid": "Q22007007"
   }
  },
+ "engelse|ajax": {
+  "checked": "2026-11-28T13:24:41+00:00",
+  "player": null
+ },
  "engelse|az": {
   "checked": "2026-11-26T07:45:20+00:00",
   "player": null
@@ -209,6 +213,21 @@
  "geelen|ajax": {
   "checked": "2026-11-25T17:19:09+00:00",
   "player": null
+ },
+ "gertjan verbeek": {
+  "checked": "2026-11-28T13:24:45+00:00",
+  "player": {
+   "name": "Gertjan Verbeek",
+   "photo": {
+    "artist": "Садовников Дмитрий",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gertjan_Verbeek_2012.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gertjan_Verbeek_2012.jpg/500px-Gertjan_Verbeek_2012.jpg",
+    "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gertjan_Verbeek_2012.jpg/500px-Gertjan_Verbeek_2012.jpg"
+   },
+   "qid": "Q1094306"
+  }
  },
  "gezamenlijke|heerenveen": {
   "checked": "2026-11-27T11:12:01+00:00",
@@ -351,6 +370,10 @@
    "qid": "Q357984"
   }
  },
+ "klassieker|ajax": {
+  "checked": "2026-11-28T13:24:47+00:00",
+  "player": null
+ },
  "kuip|feyenoord": {
   "checked": "2026-11-22T11:58:39+00:00",
   "player": null
@@ -392,6 +415,10 @@
  },
  "maduro|psv": {
   "checked": "2026-11-21T19:11:04+00:00",
+  "player": null
+ },
+ "man utd": {
+  "checked": "2026-11-28T13:24:39+00:00",
   "player": null
  },
  "merk|fortuna": {
@@ -718,6 +745,10 @@
  },
  "ziedende|ajax": {
   "checked": "2026-11-25T22:19:39+00:00",
+  "player": null
+ },
+ "zijn|cambuur": {
+  "checked": "2026-11-28T13:24:36+00:00",
   "player": null
  }
 }

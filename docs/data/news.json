@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:07:53Z",
+ "updated": "2026-11-28T13:24:32Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,61 @@
   }
  ],
  "items": [
+  {
+   "id": "0cea23ceea0c",
+   "title": "Cambuur slaat bod op smaakmaker af: 'Zijn management wordt platgebeld'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2164041/sc-cambuur-wijst-bod-op-ilyes-hamache-af-ondanks-buitenlandse-interesse.html",
+   "published": "2026-11-28T13:22:56Z",
+   "clubs": [
+    "cambuur"
+   ],
+   "player": null
+  },
+  {
+   "id": "52b79aa7aaeb",
+   "title": "Engelse media lyrisch over 'Ajax-flop': 'Geen wonder dat Man Utd interesse heeft'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2164028/calvin-bassey-maakt-indruk-in-engeland-en-wekt-interesse-manchester-united.html",
+   "published": "2026-11-28T12:25:03Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
+  {
+   "id": "1149521f4d7e",
+   "title": "Gertjan Verbeek haalt keihard uit naar GTA 6-spelende Go Ahead-speler Thibo Baeten: ’Wat een lul-de-behanger is dat’",
+   "source": "De Telegraaf",
+   "link": "https://www.telegraaf.nl/sport/voetbal/gertjan-verbeek-haalt-keihard-uit-naar-gta-6-spelende-go-ahead-speler-thibo-baeten-wat-een-lul-de-behanger-is-dat/165247588.html",
+   "published": "2026-11-28T12:07:54Z",
+   "clubs": [
+    "gae"
+   ],
+   "player": {
+    "name": "Gertjan Verbeek",
+    "qid": "Q1094306",
+    "photo": {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gertjan_Verbeek_2012.jpg/500px-Gertjan_Verbeek_2012.jpg",
+     "src_small": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gertjan_Verbeek_2012.jpg/500px-Gertjan_Verbeek_2012.jpg",
+     "page": "https://commons.wikimedia.org/wiki/File:Gertjan_Verbeek_2012.jpg",
+     "artist": "Садовников Дмитрий",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+   }
+  },
+  {
+   "id": "0ddbc1a0b7e9",
+   "title": "In beeld | Ajax traint dag voor Klassieker voor afgeladen 'rode' tribunes",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6418099/ajax-traint-dag-voor-klassieker-voor-afgeladen-rode-tribunes.html",
+   "published": "2026-11-28T12:07:02Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": null
+  },
   {
    "id": "c2f84a68b0bb",
    "title": "Nieuwe ontwikkelingen rond 'PSV-target': De Bruyne nog in beeld in Eindhoven",
