@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:24:09Z",
+ "updated": "2026-11-28T10:11:01Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -119,6 +119,21 @@
    "player": {
     "name": "Peter Bosz",
     "qid": "Q1029982",
+    "photo": null
+   }
+  },
+  {
+   "id": "4e3c1516c7e8",
+   "title": "Owen Wijndal nam afscheid van Ajax in groepsapp: 'Maar was hier nog niet klaar'",
+   "source": "NU.nl",
+   "link": "https://www.nu.nl/voetbal/6417950/owen-wijndal-nam-afscheid-van-ajax-in-groepsapp-maar-was-hier-nog-niet-klaar.html",
+   "published": "2026-11-28T05:02:49Z",
+   "clubs": [
+    "ajax"
+   ],
+   "player": {
+    "name": "Owen Wijndal",
+    "qid": "Q28753836",
     "photo": null
    }
   },
