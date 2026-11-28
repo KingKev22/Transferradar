@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T15:05:46Z",
+ "updated": "2026-11-28T16:06:33Z",
  "clubs": [
   {
    "slug": "ajax",
@@ -107,6 +107,17 @@
   }
  ],
  "items": [
+  {
+   "id": "f5b6df22c7a1",
+   "title": "Uitblinker Cambuur over winterse terugkeer naar FC Utrecht: 'Nog niets gehoord'",
+   "source": "Voetbalprimeur",
+   "link": "https://www.voetbalprimeur.nl/nieuws/2164083/rafik-el-arguioui-over-mogelijke-winterse-terugkeer-naar-fc-utrecht.html",
+   "published": "2026-11-28T16:05:00Z",
+   "clubs": [
+    "utrecht",
+    "cambuur"
+   ]
+  },
   {
    "id": "0cea23ceea0c",
    "title": "Cambuur slaat bod op smaakmaker af: 'Zijn management wordt platgebeld'",
